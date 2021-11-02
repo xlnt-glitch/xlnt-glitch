@@ -1,0 +1,5 @@
+I wanted to share my thoughts on Rubber Duck Coding. While i know some people are super adept at using this tool, I for one am not. I can blame it on the ADHD because of hyper fixation, but my problem lies in not being able to clear my mind and reset. I am the type of person that likes to learn multiple things at once. So I have come up with a modern solution for this problem, for me. This may not work for you, but it works for me. 
+
+At the moment I am learning Japanese. This is crucial because i never really have enough time in the day to practice what I learn. So to "Reset" I grab a Funko Pop of one of my favorite anime characters and talk to them in Japanese. I tell them the issues and use them as the Duck. I know it is similar but it is also "resetting me to factory" if you will. 
+
+I am able to step away from the situation and focus on something else and when I come back to it, even if for a few moments I feel more clear. Plus when people catch me talking to the Anime characters it does add an extra element of fun to the day, lol. 
