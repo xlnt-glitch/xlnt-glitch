@@ -2,7 +2,7 @@
 - 📍 I'm from Cleveland, Ohio.
 - 💻 I work in Network Engineer/Security/DevOPS.
 - 🎸 In my free time i play the Acoustic Guitar.
-- ☕️ I add a splash of milk to my tea for flavor. 
+- ☕️ I add a splash of milk to my hot tea for flavor. 
 - 👀 I’m interested in creating programs for people to assist in everyday aspects of their lives.
 - 🌱 I’m currently learning Python AI and Machine Learning.
 - 💞️ I’m looking to collaborate on different Python projects, while dabbling in JavaScript and Node.JS.
