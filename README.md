@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eric, or @encrypted-duck! Let me tell you a little about me!
+- 👋 Hi, I’m Eric, or @xlnt-glitch! Let me tell you a little about me!
 - 📍 I'm from Cleveland, Ohio.
 - 💻 I work in Network Engineer/Security/DevOPS.
 - 🎸 In my free time i play the Acoustic Guitar.
