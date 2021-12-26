@@ -5,7 +5,7 @@
 - ☕️ I add a splash of milk to my hot tea for flavor. 
 - 👀 I’m interested in creating programs for people to assist in everyday aspects of their lives.
 - 🌱 I’m currently learning Python AI and Machine Learning.
-- 💞️ I’m looking to collaborate on different Python projects, while dabbling in JavaScript and Node.JS.
+- 💞️ My go to programming languages are Python, PowerShell, and C#. I am also working on Node.JS API integrations. 
 - 🔐 I am a crypto currency investor.
 - 📚 I love to read all sorts of books.
 - 📫 How to reach me xlntglitch@icloud.com
