@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric, or @xlnt-glitch! Let me tell you a little about me!
 - 📍 I'm from Cleveland, Ohio.
-- 💻 I work in Network Engineer/Security/DevOPS.
+- 💻 I work in Network Engineering/Security Engineering and DevOPS, a typical Jack of all, master of none.
 - 🎸 In my free time i play the Acoustic Guitar.
 - ☕️ I add a splash of milk to my hot tea for flavor. 
 - 👀 I’m interested in creating programs for people to assist in everyday aspects of their lives.
