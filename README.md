@@ -3,10 +3,10 @@
 - 💻 I work in Network Engineering/Security Engineering and DevOPS, a typical Jack of all, master of none.
 - 🎸 In my free time i play the Acoustic Guitar.
 - ☕️ I add a splash of milk to my hot tea for flavor. 
-- 👀 I’m interested in creating programs for people to assist in everyday aspects of their lives.
+- 👀 I’m interested in creating programs for people to assist in everyday aspects of their lives. I am working on an app to assit people in need.
 - 🌱 I’m currently learning Python AI and Machine Learning.
-- 💞️ My go to programming languages are Python, PowerShell, and C#. I am also working on Node.JS API integrations. 
-- 🔐 I am a crypto currency investor.
+- 💞️ My go to programming languages are Python, PowerShell, and C#. I also work with Node.JS. 
+- 🔐 I am a crypto currency and stock investor.
 - 📚 I love to read all sorts of books.
 - 📫 How to reach me xlntglitch@icloud.com
 
