@@ -25,7 +25,7 @@ Hi! My name is Eric Butchart and I'm a freelance developer working on some amazi
  
 ![xlnt-glitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
