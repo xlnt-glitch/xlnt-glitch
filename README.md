@@ -2,11 +2,11 @@
   <a href="https://twitter.com/xlnt_glitch">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://stackoverflow.com/users/14830756/eric-butchart">
     <img src="https://img.shields.io/badge/StackOverFlow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow Badge"/>
+  </a>  
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
   </div>
   
