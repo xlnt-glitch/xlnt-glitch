@@ -4,7 +4,7 @@
   
 <div id="badges" align="center">
   <a href="https://twitter.com/xlnt_glitch">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
   <a href="https://stackoverflow.com/users/14830756/eric-butchart">
     <img src="https://img.shields.io/badge/StackOverFlow-green?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow Badge"/>
