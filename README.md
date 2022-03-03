@@ -23,7 +23,7 @@ Hi! My name is Eric Butchart and I'm a freelance developer working on some amazi
   2. There is nothing more beautiful then the forests of the world 
   3. The grand size of the world is so much larger than you know.
  
-![xlnt-glitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=radical)
+![xlnt-glitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=tokyonight)
 
 
 <!---
