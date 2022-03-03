@@ -74,6 +74,7 @@ Hi! My name is Eric Butchart and I'm a freelance developer working on some amazi
 ---
 ### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xlnt-glitch&theme=dark&background=000000)](https://git.io/streak-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
