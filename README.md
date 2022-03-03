@@ -76,7 +76,7 @@ My name is Eric Butchart and I'm a developer working on some amazing Python and 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xlnt-glitch&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 xlnt-glitch/xlnt-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
