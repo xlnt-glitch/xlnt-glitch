@@ -26,6 +26,9 @@ Hi! My name is Eric Butchart and I'm a freelance developer working on some amazi
 ![xlnt-glitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=tokyonight)
 
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch)](https://github.com/xlnt-glitch/github-readme-stats)
 <!---
 xlnt-glitch/xlnt-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
