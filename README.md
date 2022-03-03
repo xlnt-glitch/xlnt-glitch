@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xlnt-glitch.README.md)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xlnt-glitch.page.id)
 
 Biography of Eric - Who is Eric?
 
