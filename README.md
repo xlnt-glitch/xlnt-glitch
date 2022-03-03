@@ -29,7 +29,7 @@ My name is Eric Butchart and I'm a developer working on some amazing Python and 
 - 👀 I’m interested in creating programs for people to assist in everyday aspects of their lives. I am working on an app to assit people in need.
 - 🌱 I’m currently learning Python AI and Machine Learning.
 - 💞️ My go to programming languages are Python, PowerShell, and C#. I also work with Node.JS. 
-- 🔐 I am a crypto currency and stock investor.
+- 🔐 I invest in crypto, stocks, and create NFT's.
 - 📚 I love to read all sorts of books.
 - ❓ I am indecisive if I am going to use dark mode or not, I only use it about 50% of the time. (example - VS Code is dark mode, but VS2019 is not..)
 - 📫 How to reach me xlntglitch@gmail.com.com
