@@ -32,7 +32,7 @@ My name is Eric Butchart and I'm a developer working on some amazing Python and 
 - 🔐 I invest in crypto, stocks, and create NFT's.
 - 📚 I love to read all sorts of books.
 - ❓ I am indecisive if I am going to use dark mode or not, I only use it about 50% of the time. (example - VS Code is dark mode, but VS2019 is not..)
-- 📫 How to reach me xlntglitch@gmail.com.com
+- 📫 How to reach me xlntglitch@gmail.com
 ---
 👨‍💻 My first experience with computers - One of my fondest memories was in fifth grade. I would get to computer class to fire up the Macintosh Performa 460, so that I could spend an hour typing little letters on the screen. At the end of a few weeks we would learn that we wrote something beautiful. We were told to run it and if done correctly we would see what we did. The pure joy when that rocket on the screen lifted up was amazing 🚀. I knew that’s what I wanted forever, computers and code. Just for the record though, I did not do it correctlly. My porthole window was off the rocket by about 6mm. 
 
