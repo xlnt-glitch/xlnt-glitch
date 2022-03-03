@@ -40,6 +40,7 @@ Hi! My name is Eric Butchart and I'm a freelance developer working on some amazi
   1. There is nothing more pure than the kindness of strangers. 
   2. There is nothing more beautiful then the forests of the world 
   3. The grand size of the world is so much larger than you know.
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div id="icons" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" title="AfterEffects" width="40" height="40"/>&nbsp;
@@ -69,7 +70,9 @@ Hi! My name is Eric Butchart and I'm a freelance developer working on some amazi
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" width="40" height="40"/>&nbsp;
 </div> 
+---
 
+### :fire: My Stats :
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
