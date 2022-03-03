@@ -24,7 +24,7 @@ My name is Eric Butchart and I'm a developer working on some amazing Python and 
 - 👋 I’m Eric, or @xlnt-glitch! Let me tell you a little about me!
 - 📍 I'm from Cleveland, Ohio.
 - 💻 I work in Network Engineering/Security Engineering and DevOPS, typical IT work.
-- 🎸 In my free time I play the Acoustic Guitar.
+- 🎸 In my free time I play the Guitar.
 - ☕️ I add a splash of milk to my hot tea for flavor. 
 - 👀 I’m interested in creating programs for people to assist in everyday aspects of their lives. I am working on an app to assit people in need.
 - 🌱 I’m currently learning Python AI and Machine Learning.
