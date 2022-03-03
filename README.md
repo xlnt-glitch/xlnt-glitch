@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Twitter-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
   <a href="https://stackoverflow.com/users/14830756/eric-butchart">
-    <img src="https://img.shields.io/badge/StackOverFlow-lavender?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow Badge"/>
+    <img src="https://img.shields.io/badge/StackOverFlow-forest?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow Badge"/>
   </a>  
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
