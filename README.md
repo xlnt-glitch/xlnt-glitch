@@ -1,6 +1,6 @@
 <div id="badges">
   <a href="https://twitter.com/xlnt_glitch">
-    <https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
   </div>
   
