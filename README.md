@@ -1,5 +1,9 @@
-
-
+<div id="badges">
+  <a href="https://twitter.com/xlnt_glitch">
+    <https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white>
+      </a>
+  </div>
+  
 Biography of Eric - Who is Eric?
 
 Hi! My name is Eric Butchart and I'm a freelance developer working on some amazing Python and C# projects. I love sharing my knowledge, not only On GitHub but also on my Twitter page.
