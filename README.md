@@ -70,8 +70,8 @@ Hi! My name is Eric Butchart and I'm a freelance developer working on some amazi
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" width="40" height="40"/>&nbsp;
 </div> 
----
 
+---
 ### :fire: My Stats :
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
