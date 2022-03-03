@@ -2,10 +2,6 @@ Biography of Eric - Who is Eric?
 
 Hi! My name is Eric Butchart and I'm a freelance developer working on some amazing Python and C# projects. I love sharing my knowledge, not only On GitHub but also on my Twitter page.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch)](https://github.com/anuraghazra/github-readme-stats)
-
-
 - 👋 Hi, I’m Eric, or @xlnt-glitch! Let me tell you a little about me!
 - 📍 I'm from Cleveland, Ohio.
 - 💻 I work in Network Engineering/Security Engineering and DevOPS, typical IT work.
@@ -29,7 +25,7 @@ Hi! My name is Eric Butchart and I'm a freelance developer working on some amazi
  
 ![xlnt-glitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=tokyonight)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
