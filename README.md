@@ -21,7 +21,7 @@
 
 Hi! My name is Eric Butchart and I'm a freelance developer working on some amazing Python and C# projects. I love sharing my knowledge, not only On GitHub but also on my Twitter page.
 
-- 👋 Hi, I’m Eric, or @xlnt-glitch! Let me tell you a little about me!
+- 👋 I’m Eric, or @xlnt-glitch! Let me tell you a little about me!
 - 📍 I'm from Cleveland, Ohio.
 - 💻 I work in Network Engineering/Security Engineering and DevOPS, typical IT work.
 - 🎸 In my free time I play the Acoustic Guitar.
