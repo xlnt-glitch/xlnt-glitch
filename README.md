@@ -4,17 +4,17 @@
   
 <div id="badges" align="center">
   <a href="https://twitter.com/xlnt_glitch">
-    <img src="https://img.shields.io/badge/Twitter-Orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
   <a href="https://stackoverflow.com/users/14830756/eric-butchart">
-    <img src="https://img.shields.io/badge/StackOverFlow-Orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow Badge"/>
+    <img src="https://img.shields.io/badge/StackOverFlow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow Badge"/>
   </a>  
   <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-Orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
   </div>
   <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=xlnt-glitch&style=flat-square&color=Orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=xlnt-glitch&style=flat-square&color=orange" alt=""/>
   </div>
 <h1 style="text-align: center;">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
 
