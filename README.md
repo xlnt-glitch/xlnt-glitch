@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xlnt-glitch.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
 Biography of Eric - Who is Eric?
 
 Hi! My name is Eric Butchart and I'm a freelance developer working on some amazing Python and C# projects. I love sharing my knowledge, not only On GitHub but also on my Twitter page.
@@ -26,7 +28,7 @@ Hi! My name is Eric Butchart and I'm a freelance developer working on some amazi
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
