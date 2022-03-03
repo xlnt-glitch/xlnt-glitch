@@ -41,7 +41,7 @@ Hi! My name is Eric Butchart and I'm a freelance developer working on some amazi
   2. There is nothing more beautiful then the forests of the world 
   3. The grand size of the world is so much larger than you know.
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div id="icons" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" title="AfterEffects" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40" height="40"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" width="40" height="40"/>&nbsp; 
