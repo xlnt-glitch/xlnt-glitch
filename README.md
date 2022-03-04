@@ -63,7 +63,7 @@ I'm a developer and an Engineer working on some amazing Python projects. I love 
   <img src="https://img.shields.io/badge/HTML5-blue?style=plastic&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-blue?style=plastic&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Cs23-blue?style=plastic&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-blue?style=plastic&logo=c%23logoColor=white" />
   <img src="https://img.shields.io/badge/Java-blue?style=plastic&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-blue?style=plastic&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-blue?style=plastic&logo=rust&logoColor=white" />
