@@ -69,6 +69,7 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white" />
   </div> 
+  
 ### :computer: Frameworks and Libraries :
 <div id="frameworks" align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" />
