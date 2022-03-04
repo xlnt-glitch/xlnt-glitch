@@ -59,88 +59,88 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 ---
 ### :open_book: Languages :
 <div id="languages">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-blue?style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-blue?style=plastic&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C-blue?style=plastic&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-blue?style=plastic&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-blue?style=plastic&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-blue?style=plastic&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-blue?style=plastic&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-blue?style=plastic&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-blue?style=plastic&logo=ruby&logoColor=white" />
   </div> 
   
 ### :computer: Frameworks and Libraries :
 <div id="frameworks" align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=plastic&logo=angularjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=plastic&logo=ruby-on-rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=plastic&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-blue?style=plastic&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-blue?style=plastic&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-blue?style=plastic&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-blue?style=plastic&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-blue?style=plastic&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Angular-blue?style=plastic&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/AngularJS-blue?style=plastic&logo=angularjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-blue?style=plastic&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-blue?style=plastic&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-blue?style=plastic&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-blue?style=plastic&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-blue?style=plastic&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-blue?style=plastic&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-blue?style=plastic&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/nuxt.js-blue?style=plastic&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-blue?style=plastic&logo=nextdotjs&logoColor=white" />
   </div> 
   
 ### :hammer_and_wrench: Tools :
 <div id="Tools" align="left">  
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=plastic&logo=sublime-text&logoColor=important" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atom-66595C?style=plastic&logo=Atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipse&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/sublime_text-blue.svg?&style=plastic&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-blue?style=plastic&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-blue?style=plastic&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atom-blue?style=plastic&logo=Atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-blue?style=plastic&logo=eclipse&logoColor=white" /> 
   </div>
   
 ### :open_file_folder: Databases :
 <div id="Databases" align="left"> 
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=plastice&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastice&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=plastice&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=plastic&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-blue?style=plastice&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-blue?style=plastic&logo=sqlite&logoColor=white" />
   </div>
 
 ### :cd: Operating Systems and Distributions :
 <div id="OperatingSystems" align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic&logo=linux-mint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=plastic&logo=alpine-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tails%20-56347C?&style=plastic&logo=tails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_XP-003399?style=plastic&logo=windows-xp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_95-008080?style=plastic&logo=windows-95&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-blue?style=plastic&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-blue?style=plastic&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Mint-blue?style=plastic&logo=linux-mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine_Linux-blue?style=plastic&logo=alpine-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-blue?style=plastic&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tails%20-blue?&style=plastic&logo=tails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_XP-blue?style=plastic&logo=windows-xp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_95-blue?style=plastic&logo=windows-95&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-blue?style=plastic&logo=microsoft-sql-server&logoColor=white" />
 </div>
   
 ### :cloud: Cloud :
 <div id="Cloud" align="left">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-blue?style=plastic&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-blue?style=plastic&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-blue?style=plastic&logo=microsoft-azure&logoColor=white" />
 </div>  
 
 ### :abacus: Program and Misc :
 <div id="program" align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=plastic&logo=microsoft-access&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=plastic&logo=microsoft-sharepoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=plastic&logo=microsoft-visio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-666666?style=plastic&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=plastic&logo=sap&logoColor=whit" />
-  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?plastic&logo=microsoft-teams&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-blue?style=plastic&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-blue?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Access-blue?style=plastic&logo=microsoft-access&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-blue?style=plastic&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SharePoint-blue?style=plastic&logo=microsoft-sharepoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-blue?style=plastic&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Visio-blue?style=plastic&logo=microsoft-visio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-blue?style=plastic&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-blue?style=plastic&logo=sap&logoColor=whit" />
+  <img src="https://img.shields.io/badge/Microsoft_Teams-blue?plastic&logo=microsoft-teams&logoColor=white" />
 </div>
   
 ---
