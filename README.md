@@ -60,6 +60,7 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white" />
   </div> 
 
@@ -103,6 +104,43 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" />
   </div>
 
+---
+### :cd: Operating Systems and Distributions :
+<div id="OperatingSystems" align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=plastic&logo=linux-mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=plastic&logo=alpine-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tails%20-56347C?&style=plastic&logo=tails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_XP-003399?style=plastic&logo=windows-xp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_95-008080?style=plastic&logo=windows-95&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white" />
+</div>
+  
+---
+### :cloud: Cloud :
+<div id="Cloud" align="left">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white" />
+</div>  
+
+---
+### :abacus: Program and Misc :
+<div id="program" align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=plastic&logo=microsoft-access&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=plastic&logo=microsoft-sharepoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=plastic&logo=microsoft-visio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-666666?style=plastic&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=plastic&logo=sap&logoColor=whit" />
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?plastic&logo=microsoft-teams&logoColor=white" />
+</div>
+  
 ---
 ### :pencil2: Learning :
 
