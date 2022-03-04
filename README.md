@@ -98,7 +98,21 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastice&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" />
   </div>
-  
+
+---
+### :pencil2: Learning :
+
+|Jose Portilla | Python Bootcamp  |
+|:---------:|:----------------------------------:|
+| Dr. Angela Yu | 100 Days of Code, Python Bootcamp |
+
+| Company 2 | Period of work (mm/yyyy - mm/yyyy) |
+|:---------:|:----------------------------------:|
+| Position 2 | Description about position 2 |
+
+| Company 3 | Period of work (mm/yyyy - mm/yyyy) |
+|:---------:|:----------------------------------:|
+| Position 3 | Description about position 3 |
 ---  
 ### :fire: My Stats :
 
