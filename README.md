@@ -144,6 +144,10 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 ---
 ### :pencil2: Learning :
 
+<div id="learning" align="left">
+  <img src="https://badgen.net/badge/:Jose Portilla/:Python Bootcamp/:blue" />
+ </div> 
+
 |Jose Portilla             | Python Bootcamp  |
 |:---------:|:----------------------------------:|
 | Dr. Angela Yu            | Python Bootcamp |
