@@ -29,7 +29,7 @@ My name is Eric Butchart and I'm a developer working on some amazing Python and 
 - 💻 I work in Network Engineering/Security Engineering and DevOPS, typical IT work.
 - 🎸 In my free time I play the Guitar.
 - ☕️ I add a splash of milk to my hot tea for flavor. 
-- 👀 I’m interested in creating programs for people to assist in everyday aspects of their lives. I am working on an app to assit people in need.
+- 👀 I am working on an app to assit people in need.
 - 🌱 I’m currently learning Python AI and Machine Learning.
 - 💞️ My go to programming languages are Python, PowerShell, and C#. I also work with Node.JS. 
 - 🔐 I invest in crypto, stocks, and create NFT's.
