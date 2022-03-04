@@ -90,7 +90,6 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" />
   </div> 
   
----
 ### :hammer_and_wrench: Tools :
 <div id="Tools" align="left">  
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=plastic&logo=sublime-text&logoColor=important" />
@@ -100,7 +99,6 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipse&logoColor=white" /> 
   </div>
   
----
 ### :open_file_folder: Databases :
 <div id="Databases" align="left"> 
   <img src="https://img.shields.io/badge/MySQL-00000F?style=plastice&logo=mysql&logoColor=white" />
@@ -109,7 +107,6 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" />
   </div>
 
----
 ### :cd: Operating Systems and Distributions :
 <div id="OperatingSystems" align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" />
@@ -123,7 +120,6 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white" />
 </div>
   
----
 ### :cloud: Cloud :
 <div id="Cloud" align="left">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" />
@@ -131,7 +127,6 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white" />
 </div>  
 
----
 ### :abacus: Program and Misc :
 <div id="program" align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white" />
