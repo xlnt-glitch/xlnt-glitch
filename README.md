@@ -56,7 +56,7 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 
 ---
 ### :open_book: Languages :
-<div id="icons">
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
