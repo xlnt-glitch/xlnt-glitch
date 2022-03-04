@@ -7,13 +7,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
   <a href="https://stackoverflow.com/users/14830756/eric-butchart">
-    <img src="https://img.shields.io/badge/StackOverFlow-blue?style=plastic&logo=stackoverflow&logoColor=white" alt="StackOverFlow Badge"/>
+    <img src="https://img.shields.io/badge/StackOverFlow-blue?style=plastic&logo=stackoverflow&logoColor=white" alt="Stack OverFlow Badge"/>
   </a>  
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
   <a href="https://dev.to/xlntglitch">
-    <img src="https://img.shields.io/badge/DevTo-blue?style=plastic&logo=devto&logoColor=white" alt="DevTo Badge"/>
+    <img src="https://img.shields.io/badge/DevTo-blue?style=plastic&logo=devto&logoColor=white" alt="Dev.To Badge"/>
   </a>  
   </div> 
   <div id="views" align="center">
