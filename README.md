@@ -146,23 +146,24 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 
 <div id="learning" align="left">
   <img src="https://badgen.net/badge/Jose Portilla/Python Bootcamp/blue" />
+  <img src="https://badgen.net/badge/Dr. Angela Yu/100 Days of Code - Python Bootcamp/blue" />
+  <img src="https://badgen.net/badge/Ardit Sulce/Python Mega Course/blue" />
+  <img src="https://badgen.net/badge/Al Sweigart/Python Programming/blue" />
+  <img src="https://badgen.net/badge/Kirill Eremenko/Machine Learning/blue" />
+  <img src="https://badgen.net/badge/Kirill Eremenko/Deep Learning/blue" />
+  <img src="https://badgen.net/badge/Maximilian Schwarzmuller/JavaScript Bootcamp/blue" />
+  <img src="https://badgen.net/badge/Jose Portilla/Django Bootcamp/blue" />
  </div> 
 
-|Jose Portilla             | Python Bootcamp  |
-|:---------:|:----------------------------------:|
-| Dr. Angela Yu            | Python Bootcamp |
+---
+### :books: Recent Books
 
-| Ardit Sulce              | Python Mega Course |
-|:---------:|:----------------------------------:|
-| Al Sweigart              | Python Programming |
-
-| Kirill Eremenko          | Machine Learning |
-|:---------:|:----------------------------------:|
-| Kirill Eremenko          | Deep Learning |
-
-| Maximilian Schwarzmuller | JavaScript Bootcamp |
-|:---------:|:----------------------------------:|
-| Jose Portilla            | Django Bootcamp |
+<div id="books" align="left">
+  <img src="https://badgen.net/badge/Hench/By: Natalie Zina Walschots/blue" />
+  <img src="https://badgen.net/badge/An Absolutely Remarkable Thing/By: Hank Green/blue" />
+  <img src="https://badgen.net/badge/The C# Player's Guide/By: RB Whitaker/blue" />
+  <img src="https://badgen.net/badge/Automate the Boring Stuff/By: Al Sweigart/blue" />
+</div>
 
 ---  
 
