@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/hOXPs0xOfNiu4Us8Yy/200w.webp?cid=ecf05e47nj5knnjwd3s9myvz4vp6405a3eqrm8lm99fuxusw&rid=200w.webp&ct=s" width="400"/>
+  <img src="https://media0.giphy.com/media/XcXx0WlV7L9cMKhA6G/200w.webp?cid=ecf05e47qhs8f961fyc8doxkogkz3h8mwy6ltc97bhbl6pcc&rid=200w.webp&ct=s" width="400"/>
 </div>
   
 <div id="badges" align="center">
@@ -42,7 +42,7 @@ I'm a developer and an Engineer working on some amazing Python projects. I love 
 - 📫 How to reach me  <a href="mailto:xlntglitch@gmail.com">
     <img src="https://img.shields.io/badge/gmail-blue?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>  
-  
+ 
 ---
 ### :speech_balloon: Fun Fact :
 
@@ -168,7 +168,9 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
 
 <a href="https://stackoverflow.com/users/14830756/eric-butchart"><img src="https://stackoverflow.com/users/flair/14830756.png?theme=dark" width="208" height="58" alt="profile for Eric Butchart at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Eric Butchart at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-
+ <div id="Footer" align="center">
+  <img src="https://media0.giphy.com/media/hOXPs0xOfNiu4Us8Yy/200w.webp?cid=ecf05e47nj5knnjwd3s9myvz4vp6405a3eqrm8lm99fuxusw&rid=200w.webp&ct=s" width="300"/>
+</div>
 
 
 
