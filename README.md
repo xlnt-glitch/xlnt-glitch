@@ -159,10 +159,10 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 ### :books: Recent Books
 
 <div id="books" align="left">
-  <img src="https://badgen.net/badge/Hench/By: Natalie Zina Walschots/blue" />
-  <img src="https://badgen.net/badge/An Absolutely Remarkable Thing/By: Hank Green/blue" />
-  <img src="https://badgen.net/badge/The C# Player's Guide/By: RB Whitaker/blue" />
-  <img src="https://badgen.net/badge/Automate the Boring Stuff/By: Al Sweigart/blue" />
+  <img src="https://badgen.net/badge/Hench/By Natalie Zina Walschots/blue" />
+  <img src="https://badgen.net/badge/An Absolutely Remarkable Thing/By Hank Green/blue" />
+  <img src="https://badgen.net/badge/The C# Players Guide/By RB Whitaker/blue" />
+  <img src="https://badgen.net/badge/Automate the Boring Stuff/By Al Sweigart/blue" />
 </div>
 
 ---  
