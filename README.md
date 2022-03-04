@@ -54,7 +54,7 @@ I'm a developer and an Engineer working on some amazing Python projects. I love 
 #### Github Stats :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xlnt-glitch&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<img src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=tokyonight" alt="github stats" width="45%" align="right"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=xlnt-glitch&row=1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ### :open_book: Languages :
@@ -171,7 +171,7 @@ I'm a developer and an Engineer working on some amazing Python projects. I love 
 
 
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=xlnt-glitch&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!---
 xlnt-glitch/xlnt-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
