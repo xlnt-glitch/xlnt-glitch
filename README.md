@@ -71,27 +71,19 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
   <img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-blue?style=plastic&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/C%23-blue?style=plastic&logo=c%23logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-blue?style=plastic&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-blue?style=plastic&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-blue?style=plastic&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-blue?style=plastic&logo=ruby&logoColor=white" />
-  </div> 
+</div> 
   
 ### :computer: Frameworks and Libraries :
 <div id="frameworks" align="left">
-  <img src="https://img.shields.io/badge/React_Native-blue?style=plastic&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-blue?style=plastic&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-blue?style=plastic&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-blue?style=plastic&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-blue?style=plastic&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Angular-blue?style=plastic&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/AngularJS-blue?style=plastic&logo=angularjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-blue?style=plastic&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-blue?style=plastic&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-blue?style=plastic&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-blue?style=plastic&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-blue?style=plastic&logo=ruby-on-rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-blue?style=plastic&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-blue?style=plastic&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/nuxt.js-blue?style=plastic&logo=nuxtdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-blue?style=plastic&logo=nextdotjs&logoColor=white" />
