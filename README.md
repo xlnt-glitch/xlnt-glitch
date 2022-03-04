@@ -17,7 +17,7 @@
   </a>
   </a>  
   <a href="mailto:xlntglitch@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/gmail-blue?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>  
   </div> 
   <div id="views" align="center">
