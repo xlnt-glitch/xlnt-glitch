@@ -58,7 +58,7 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
   3. The grand size of the world is so much larger than you know.
 
 ---
-### Github Stats :fire: My Stats :
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xlnt-glitch&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<img src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=tokyonight" alt="github stats" width="45%" align="right"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
