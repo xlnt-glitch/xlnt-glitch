@@ -50,9 +50,9 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 ---
 
 #### Github Stats :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xlnt-glitch&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xlnt-glitch&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<img src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=tokyonight" alt="github stats" width="45%" align="right"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=tokyonight" alt="github stats" width="45%" align="right"/>
+
 
 ---
 ### :open_book: Languages :
