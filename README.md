@@ -130,7 +130,12 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 ### Contact Me 	:incoming_envelope: Contact Me :
 <a href="https://stackoverflow.com/users/14830756/eric-butchart"><img src="https://stackoverflow.com/users/flair/14830756.png?theme=dark" width="208" height="58" alt="profile for Eric Butchart at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Eric Butchart at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+</a>  
+  <a href="xlntglitch@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>  
+
 
 <!---
 xlnt-glitch/xlnt-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
