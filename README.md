@@ -42,16 +42,23 @@ I'm a developer and an Engineer working on some amazing Python projects. I love 
 - 📫 How to reach me  <a href="mailto:xlntglitch@gmail.com">
     <img src="https://img.shields.io/badge/gmail-blue?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>  
+  
 ---
-👨‍💻 My first experience with computers - One of my fondest memories was in fifth grade. I would get to computer class to fire up the Macintosh Performa 460, so that I could spend an hour typing little letters on the screen. At the end of a few weeks we would learn that we wrote something beautiful. We were told to run it and if done correctly we would see what we did. The pure joy when that rocket on the screen lifted up was amazing 🚀. I knew that’s what I wanted forever, computers and code. Just for the record though, I did not do it correctlly. My porthole window was off the rocket by about 6mm. 
+### :speech_balloon: Fun Fact :
 
-🌎 My outlook - While looking for inner peace and myself when i was younger, I traveled to some very beautiful countries around the world. I may not have found what I thought I was looking for, but I did learn these three things: 
+My first experience with computers - One of my fondest memories was in fifth grade. I would get to computer class to fire up the Macintosh Performa 460, so that I could spend an hour typing little letters on the screen. At the end of a few weeks we would learn that we wrote something beautiful. We were told to run it and if done correctly we would see what we did. The pure joy when that rocket on the screen lifted up was amazing 🚀. I knew that’s what I wanted forever, computers and code. 
+
+
+Just for the record though, I did not do it correctlly..... My porthole window was off the rocket by about 6mm, that was my first experience in code review.
+
+### :thought_balloon: Personal Mantra :
+My outlook - While looking for inner peace and myself when i was younger, I traveled to some very beautiful countries around the world. I may not have found what I thought I was looking for, but I did learn these three things: 
   1. There is nothing more pure than the kindness of strangers. 
   2. Spend time with family when you can. 
   3. The grand size of the world is so much larger than you know.
----
 
-#### Github Stats :fire: My Stats :
+---
+### Github Stats :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xlnt-glitch&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<img src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=tokyonight" alt="github stats" width="45%" align="right"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
