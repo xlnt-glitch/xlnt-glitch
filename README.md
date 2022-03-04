@@ -19,7 +19,7 @@
   <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=xlnt-glitch&style=plastic&color=blue" alt=""/>
   </div>
-<h1 style="text-align: center;">hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />I'm Eric!</h1>
+<h1 style="text-align: center;">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> I'm Eric!</h1>
 
 
 My name is Eric Butchart and I'm a developer working on some amazing Python and C# projects. I love sharing my knowledge, not only On GitHub but also on my Twitter page.
