@@ -56,7 +56,7 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 
 ---
 ### :open_book: Languages :
-<div>
+<div id="languages">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
@@ -69,8 +69,6 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white" />
   </div> 
-
----
 ### :computer: Frameworks and Libraries :
 <div id="frameworks" align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" />
