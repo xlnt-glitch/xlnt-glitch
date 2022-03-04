@@ -95,6 +95,7 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastice&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" />
   </div>
+  
 ---  
 ### :fire: My Stats :
 
