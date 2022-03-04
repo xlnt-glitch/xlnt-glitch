@@ -106,10 +106,6 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 |:---------:|:----------------------------------:|
 | Dr. Angela Yu | 100 D-O-C, Python Bootcamp |
 
-| Maximilian Schwarzmuller | JavaScript Bootcamp |
-|:---------:|:----------------------------------:|
-| Jose Portilla | Django Bootcamp |
-
 | Ardit Sulce | Python Mega Course |
 |:---------:|:----------------------------------:|
 | Al Sweigart | Python Programming |
@@ -117,6 +113,10 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 | Kirill Eremenko | Machine Learning |
 |:---------:|:----------------------------------:|
 | Kirill Eremenko | Deep Learning |
+
+| Maximilian Schwarzmuller | JavaScript Bootcamp |
+|:---------:|:----------------------------------:|
+| Jose Portilla | Django Bootcamp |
 
 ---  
 ### :fire: My Stats :
