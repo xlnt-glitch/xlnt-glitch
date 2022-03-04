@@ -43,6 +43,7 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   1. There is nothing more pure than the kindness of strangers. 
   2. There is nothing more beautiful then the forests of the world 
   3. The grand size of the world is so much larger than you know.
+ 
 ---
 ### :open_book: Languages :
 <div id="icons" align="left">
@@ -58,8 +59,8 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white" />
   </div> 
 
-
-:computer: Frameworks and Libraries :
+---
+### :computer: Frameworks and Libraries :
 <div id="frameworks" align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" />
@@ -78,8 +79,9 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=plastic&logo=nuxtdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" />
   </div> 
-
-:hammer_and_wrench: Tools :
+  
+---
+### :hammer_and_wrench: Tools :
 <div id="Tools" align="left">  
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=plastic&logo=sublime-text&logoColor=important" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" />
@@ -87,8 +89,9 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
   <img src="https://img.shields.io/badge/Atom-66595C?style=plastic&logo=Atom&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipse&logoColor=white" /> 
   </div>
-
-:open_file_folder: Databases :
+  
+---
+### :open_file_folder: Databases :
 <div id="Databases" align="left"> 
   <img src="https://img.shields.io/badge/MySQL-00000F?style=plastice&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" />
