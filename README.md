@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
   <a href="https://dev.to/xlntglitch">
-    <img src="https://img.shields.io/badge/Dev-blue?style=for-the-badge&logo=dev&logoColor=white" alt="Dev Badge"/>
+    <img src="https://img.shields.io/badge/DevTo-blue?style=for-the-badge&logo=devto&logoColor=white" alt="DevTo Badge"/>
   </a>  
   </div> 
   <div id="views" align="center">
