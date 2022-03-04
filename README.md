@@ -132,7 +132,7 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 
 
 </a>  
-  <a href="xlntglitch@gmail.com">
+  <a href="mailto:xlntglitch@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>  
 
