@@ -125,6 +125,10 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=tokyonight" alt="github stats" width="45%" align="right"/>
 
+---
+
+<a href="https://stackoverflow.com/users/14830756/eric-butchart"><img src="https://stackoverflow.com/users/flair/14830756.png?theme=dark" width="208" height="58" alt="profile for Eric Butchart at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Eric Butchart at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 <!---
 xlnt-glitch/xlnt-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
