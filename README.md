@@ -171,7 +171,7 @@ I'm a developer and an Engineer working on some amazing Python projects. I love 
 
 
 
-
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=xlnt-glitch&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 xlnt-glitch/xlnt-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
