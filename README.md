@@ -169,7 +169,6 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 
 ---
 
-### Contact Me 	:incoming_envelope: Contact Me :
 <a href="https://stackoverflow.com/users/14830756/eric-butchart"><img src="https://stackoverflow.com/users/flair/14830756.png?theme=dark" width="208" height="58" alt="profile for Eric Butchart at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Eric Butchart at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
