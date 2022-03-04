@@ -136,7 +136,7 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
   <img src="https://img.shields.io/badge/Microsoft_Word-blue?style=plastic&logo=microsoft-word&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Visio-blue?style=plastic&logo=microsoft-visio&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft-blue?style=plastic&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-blue?style=plastic&logo=sap&logoColor=whit" />
+  <img src="https://img.shields.io/badge/SAP-blue?style=plastic&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Teams-blue?plastic&logo=microsoft-teams&logoColor=white" />
 </div>
   
