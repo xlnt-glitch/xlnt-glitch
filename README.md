@@ -106,13 +106,14 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 |:---------:|:----------------------------------:|
 | Dr. Angela Yu | 100 Days of Code, Python Bootcamp |
 
-| Company 2 | Period of work (mm/yyyy - mm/yyyy) |
+| Maximilian Schwarzmuller | JavaScript Bootcamp |
 |:---------:|:----------------------------------:|
-| Position 2 | Description about position 2 |
+| Jose Portilla | Django Bootcamp |
 
-| Company 3 | Period of work (mm/yyyy - mm/yyyy) |
+| Ardit Sulce | Python Mega Course |
 |:---------:|:----------------------------------:|
-| Position 3 | Description about position 3 |
+| Al Sweigart | Python Programming |
+
 ---  
 ### :fire: My Stats :
 
