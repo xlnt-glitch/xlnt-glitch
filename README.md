@@ -146,7 +146,7 @@ I'm a developer and an Engineer working on some amazing Python and C# projects. 
 
 <div id="learning" align="left">
   <img src="https://badgen.net/badge/Jose Portilla/Python Bootcamp/blue" />
-  <img src="https://badgen.net/badge/Dr. Angela Yu/100 Days of Code - Python Bootcamp/blue" />
+  <img src="https://badgen.net/badge/Dr Angela Yu/100 Days of Code Python Bootcamp/blue" />
   <img src="https://badgen.net/badge/Ardit Sulce/Python Mega Course/blue" />
   <img src="https://badgen.net/badge/Al Sweigart/Python Programming/blue" />
   <img src="https://badgen.net/badge/Kirill Eremenko/Machine Learning/blue" />
