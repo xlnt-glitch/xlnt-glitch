@@ -40,7 +40,7 @@ I'm a developer and an Engineer working on some amazing Python projects. I love 
 - 📚 I love to read all sorts of books.
 - ❓ I am indecisive if I am going to use dark mode or not, I only use it about 50% of the time. (example - VS Code is dark mode, but VS2019 is not..)
 - 📫 How to reach me  <a href="mailto:xlntglitch@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-blue?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
+    <img src="https://img.shields.io/badge/gmail-808080?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>  
  
 ---
@@ -66,101 +66,101 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
 ---
 ### :open_book: Languages :
 <div id="languages">
-  <img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-blue?style=plastic&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-blue?style=plastic&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-blue?style=plastic&logo=c%23logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-blue?style=plastic&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-blue?style=plastic&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-808080?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-808080?style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-808080?style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-808080?style=plastic&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-808080?style=plastic&logo=c%23logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-808080?style=plastic&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-808080?style=plastic&logo=rust&logoColor=white" />
 </div> 
   
 ### :computer: Frameworks and Libraries :
 <div id="frameworks" align="left">
-  <img src="https://img.shields.io/badge/Node.js-blue?style=plastic&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-blue?style=plastic&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-blue?style=plastic&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Angular-blue?style=plastic&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/AngularJS-blue?style=plastic&logo=angularjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-blue?style=plastic&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-blue?style=plastic&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-blue?style=plastic&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/nuxt.js-blue?style=plastic&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/next.js-blue?style=plastic&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-808080?style=plastic&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-808080?style=plastic&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-808080?style=plastic&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Angular-808080?style=plastic&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/AngularJS-808080?style=plastic&logo=angularjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-808080?style=plastic&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-808080?style=plastic&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-808080?style=plastic&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/nuxt.js-808080?style=plastic&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-808080?style=plastic&logo=nextdotjs&logoColor=white" />
   </div> 
   
 ### :hammer_and_wrench: Tools :
 <div id="Tools" align="left">  
-  <img src="https://img.shields.io/badge/sublime_text-blue.svg?&style=plastic&logo=sublime-text&logoColor=important" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-blue?style=plastic&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-blue?style=plastic&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atom-blue?style=plastic&logo=Atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-blue?style=plastic&logo=eclipse&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/sublime_text-808080.svg?&style=plastic&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-808080?style=plastic&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-808080?style=plastic&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atom-808080?style=plastic&logo=Atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-808080?style=plastic&logo=eclipse&logoColor=white" /> 
   </div>
   
 ### :open_file_folder: Databases :
 <div id="Databases" align="left"> 
-  <img src="https://img.shields.io/badge/MySQL-blue?style=plastice&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=plastic&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-blue?style=plastice&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-blue?style=plastic&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-808080?style=plastice&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-808080?style=plastic&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-808080?style=plastice&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-808080?style=plastic&logo=sqlite&logoColor=white" />
   </div>
 
 ### :cd: Operating Systems and Distributions :
 <div id="OperatingSystems" align="left">
-  <img src="https://img.shields.io/badge/Windows-blue?style=plastic&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-blue?style=plastic&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Mint-blue?style=plastic&logo=linux-mint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alpine_Linux-blue?style=plastic&logo=alpine-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-blue?style=plastic&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tails%20-blue?&style=plastic&logo=tails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_XP-blue?style=plastic&logo=windows-xp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_95-blue?style=plastic&logo=windows-95&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-blue?style=plastic&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-808080?style=plastic&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-808080?style=plastic&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Mint-808080?style=plastic&logo=linux-mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine_Linux-808080?style=plastic&logo=alpine-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-808080?style=plastic&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tails%20-808080?&style=plastic&logo=tails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_XP-808080?style=plastic&logo=windows-xp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_95-808080?style=plastic&logo=windows-95&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-808080?style=plastic&logo=microsoft-sql-server&logoColor=white" />
 </div>
   
 ### :cloud: Cloud :
 <div id="Cloud" align="left">
-  <img src="https://img.shields.io/badge/Amazon_AWS-blue?style=plastic&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-blue?style=plastic&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-blue?style=plastic&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-808080?style=plastic&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-808080?style=plastic&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-808080?style=plastic&logo=microsoft-azure&logoColor=white" />
 </div>  
 
 ### :abacus: Program and Misc :
 <div id="program" align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-blue?style=plastic&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-blue?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Access-blue?style=plastic&logo=microsoft-access&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-blue?style=plastic&logo=microsoft-office&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SharePoint-blue?style=plastic&logo=microsoft-sharepoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-blue?style=plastic&logo=microsoft-word&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Visio-blue?style=plastic&logo=microsoft-visio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-blue?style=plastic&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-blue?style=plastic&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Teams-blue?plastic&logo=microsoft-teams&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-808080?style=plastic&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-808080?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Access-808080?style=plastic&logo=microsoft-access&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-808080?style=plastic&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SharePoint-808080?style=plastic&logo=microsoft-sharepoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-808080?style=plastic&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Visio-808080?style=plastic&logo=microsoft-visio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-808080?style=plastic&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-808080?style=plastic&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Teams-808080?plastic&logo=microsoft-teams&logoColor=white" />
 </div>
   
 ---
 ### :pencil2: Learning :
 
 <div id="learning" align="left">
-  <img src="https://badgen.net/badge/Jose Portilla/Python Bootcamp/blue" />
-  <img src="https://badgen.net/badge/Dr Angela Yu/100 Days of Code Python Bootcamp/blue" />
-  <img src="https://badgen.net/badge/Ardit Sulce/Python Mega Course/blue" />
-  <img src="https://badgen.net/badge/Al Sweigart/Python Programming/blue" />
-  <img src="https://badgen.net/badge/Kirill Eremenko/Machine Learning/blue" />
-  <img src="https://badgen.net/badge/Kirill Eremenko/Deep Learning/blue" />
-  <img src="https://badgen.net/badge/Maximilian Schwarzmuller/JavaScript Bootcamp/blue" />
-  <img src="https://badgen.net/badge/Jose Portilla/Django Bootcamp/blue" />
+  <img src="https://badgen.net/badge/Jose Portilla/Python Bootcamp/808080" />
+  <img src="https://badgen.net/badge/Dr Angela Yu/100 Days of Code Python Bootcamp/808080" />
+  <img src="https://badgen.net/badge/Ardit Sulce/Python Mega Course/808080" />
+  <img src="https://badgen.net/badge/Al Sweigart/Python Programming/808080" />
+  <img src="https://badgen.net/badge/Kirill Eremenko/Machine Learning/808080" />
+  <img src="https://badgen.net/badge/Kirill Eremenko/Deep Learning/808080" />
+  <img src="https://badgen.net/badge/Maximilian Schwarzmuller/JavaScript Bootcamp/808080" />
+  <img src="https://badgen.net/badge/Jose Portilla/Django Bootcamp/808080" />
  </div> 
 
 ---
 ### :books: Recent Books
 
 <div id="book" align="left">
-  <img src="https://badgen.net/badge/Hench/By Natalie Zina Walschots/blue" />
-  <img src="https://badgen.net/badge/An Absolutely Remarkable Thing/By Hank Green/blue" />
-  <img src="https://badgen.net/badge/Automate the Boring Stuff/By Al Sweigart/blue" />
+  <img src="https://badgen.net/badge/Hench/By Natalie Zina Walschots/808080" />
+  <img src="https://badgen.net/badge/An Absolutely Remarkable Thing/By Hank Green/808080" />
+  <img src="https://badgen.net/badge/Automate the Boring Stuff/By Al Sweigart/808080" />
 </div>
 
 
