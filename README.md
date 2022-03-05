@@ -168,6 +168,7 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
 
 <a href="https://stackoverflow.com/users/14830756/eric-butchart"><img src="https://stackoverflow.com/users/flair/14830756.png?theme=dark" width="208" height="58" alt="profile for Eric Butchart at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Eric Butchart at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+
  <div id="Footer" align="center">
   <img src="https://media0.giphy.com/media/hOXPs0xOfNiu4Us8Yy/200w.webp?cid=ecf05e47nj5knnjwd3s9myvz4vp6405a3eqrm8lm99fuxusw&rid=200w.webp&ct=s" width="200"/>
 </div>
