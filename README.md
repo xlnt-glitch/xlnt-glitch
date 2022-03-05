@@ -51,7 +51,6 @@ My first experience with computers - One of my fondest memories was in fifth gra
 Just for the record though, I missed a line in the code. It resulted in the porthole window of the rocket being of center and hanging off the rocket. That was the moment I learned about code review.<div id="mid" align="center">
   <img src="https://media2.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp?cid=ecf05e47jryx3koee40cs3iqmxt1ue9rit7ohtpc787t2pvh&rid=200.webp&ct=s" width="100"/>
 </div>
-
 ### :thought_balloon: Personal Mantra :
 My outlook - While looking for inner peace and myself when i was younger, I traveled to some very beautiful countries around the world. I may not have found what I thought I was looking for, but I did learn these three things: 
   1. There is nothing more pure than the kindness of strangers. 
