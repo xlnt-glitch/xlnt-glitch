@@ -84,7 +84,7 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
 <div id="frameworks" align="left">
   <img src="https://img.shields.io/badge/Node.js-808080?style=plastic&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-808080?style=plastic&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-808080?style=plastic&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vue.js-808080?style=plastic&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-808080?style=plastic&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/AngularJS-808080?style=plastic&logo=angularjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-808080?style=plastic&logo=bootstrap&logoColor=white" />
