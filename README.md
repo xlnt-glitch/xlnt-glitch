@@ -112,16 +112,22 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 ---
 ### Learning :
 
-<div id="learning">
-  <img src="https://badgen.net/badge/Jose Portilla/Python Bootcamp/808080"/>
-  <img src="https://badgen.net/badge/Dr Angela Yu/100 Days of Code Python Bootcamp/808080"/>
-  <img src="https://badgen.net/badge/Ardit Sulce/Python Mega Course/808080"/>
-  <img src="https://badgen.net/badge/Al Sweigart/Python Programming/808080"/>
-  <img src="https://badgen.net/badge/Kirill Eremenko/Machine Learning/808080"/>
-  <img src="https://badgen.net/badge/Kirill Eremenko/Deep Learning/808080"/>
-  <img src="https://badgen.net/badge/Jose Portilla/Django Bootcamp/808080"/>
-  <img src="https://badgen.net/badge/Maximilian Schwarzmuller/NodeJS Bootcamp/808080"/>
- </div> 
+<table border="1">
+<tbody>
+<tr>
+<td>
+<p><img src="https://badgen.net/badge/Jose Portilla/Python Bootcamp/808080" /></p>
+<p><img src="https://badgen.net/badge/Dr Angela Yu/100 Days of Code Python Bootcamp/808080" /></p>
+<p><img src="https://badgen.net/badge/Ardit Sulce/Python Mega Course/808080" /></p>
+<p><img src="https://badgen.net/badge/Kirill Eremenko/Machine Learning/808080" /></p>
+<p><img src="https://badgen.net/badge/Kirill Eremenko/Deep Learning/808080" /></p>
+<p><img src="https://badgen.net/badge/Jose Portilla/Django Bootcamp/808080" /></p>
+<p><img src="https://badgen.net/badge/Maximilian Schwarzmuller/NodeJS Bootcamp/808080" /></p>
+<p><img src="https://badgen.net/badge/Al Sweigart/Python Programming/808080" /></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ---
 ### Recent Books :
