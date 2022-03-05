@@ -143,7 +143,7 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
 ---
 ### :pencil2: Learning :
 
-<div id="learning" align="left">
+<div id="learning">
   <img src="https://badgen.net/badge/Jose Portilla/Python Bootcamp/808080"/>
   <img src="https://badgen.net/badge/Dr Angela Yu/100 Days of Code Python Bootcamp/808080"/>
   <img src="https://badgen.net/badge/Ardit Sulce/Python Mega Course/808080"/>
