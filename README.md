@@ -33,7 +33,7 @@ I'm a developer and an Engineer working on some amazing Python projects. I love 
 - 👀 I am working on an app to assit people in need.
 - 🔐 I invest in crypto, stocks, and create NFT's.
 - 📚 I love to read all sorts of books.
-- ❓ I am indecisive if I am going to use dark mode or not, I only use it about 50% of the time. (example - VS Code is dark mode, but VS2019 is not..)
+- ❓ I am indecisive if I am going to use dark mode or not, I only use it about 50% of the time.
 - 📫 How to reach me  <a href="mailto:xlntglitch@gmail.com">
     <img src="https://img.shields.io/badge/gmail-808080?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>  
