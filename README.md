@@ -58,13 +58,13 @@ While looking for inner peace and myself when i was younger, I traveled to some 
   3. The grand size of the world is so much larger than you know.
 
 ---
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xlnt-glitch&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<img src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=dark" alt="github stats" width="45%" align="right"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div id="languages">
   <img src="https://img.shields.io/badge/Python-808080?style=plastic&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-808080?style=plastic&logo=html5&logoColor=white" />
@@ -80,7 +80,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
   <img src="https://img.shields.io/badge/Eclipse-808080?style=plastic&logo=eclipse&logoColor=white" /> 
 </div> 
   
-### :computer: Frameworks, Libraries, and Databases :
+### Frameworks, Libraries, and Databases :
 <div id="frameworks" align="left">
   <img src="https://img.shields.io/badge/Node.js-808080?style=plastic&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-808080?style=plastic&logo=dotnet&logoColor=white" />
@@ -98,7 +98,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
   <img src="https://img.shields.io/badge/SQLite-808080?style=plastic&logo=sqlite&logoColor=white" />
 </div> 
   
-### :cd: Operating Systems, Distributions, and Cloud  :
+### Operating Systems, Distributions, and Cloud  :
 <div id="OperatingSystems" align="left">
   <img src="https://img.shields.io/badge/Windows-808080?style=plastic&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-808080?style=plastic&logo=ubuntu&logoColor=white" />
@@ -116,7 +116,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
   
 
 
-### :abacus: Programs and Misc :
+### Programs and Misc :
 <div id="program" align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-808080?style=plastic&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-808080?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
@@ -130,7 +130,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 </div>
   
 ---
-### :pencil2: Learning :
+### Learning :
 
 <div id="learning">
   <img src="https://badgen.net/badge/Jose Portilla/Python Bootcamp/808080"/>
@@ -144,7 +144,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
  </div> 
 
 ---
-### :books: Recent Books
+### Recent Books :
 
 <div id="book" align="left">
   <img src="https://badgen.net/badge/Hench/By Natalie Zina Walschots/808080" />
