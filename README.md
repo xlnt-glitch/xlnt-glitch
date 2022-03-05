@@ -64,7 +64,7 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
 
 
 ---
-### :open_book: Languages :
+### :hammer_and_wrench: Languages and Tools :
 <div id="languages">
   <img src="https://img.shields.io/badge/Python-808080?style=plastic&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-808080?style=plastic&logo=html5&logoColor=white" />
@@ -73,9 +73,14 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
   <img src="https://img.shields.io/badge/C%23-808080?style=plastic&logo=c%23logoColor=white" />
   <img src="https://img.shields.io/badge/Go-808080?style=plastic&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-808080?style=plastic&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/sublime_text-808080.svg?&style=plastic&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-808080?style=plastic&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-808080?style=plastic&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atom-808080?style=plastic&logo=Atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-808080?style=plastic&logo=eclipse&logoColor=white" /> 
 </div> 
   
-### :computer: Frameworks and Libraries :
+### :computer: Frameworks, Libraries, and Databases :
 <div id="frameworks" align="left">
   <img src="https://img.shields.io/badge/Node.js-808080?style=plastic&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-808080?style=plastic&logo=dotnet&logoColor=white" />
@@ -87,26 +92,13 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
   <img src="https://img.shields.io/badge/Flask-808080?style=plastic&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/nuxt.js-808080?style=plastic&logo=nuxtdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-808080?style=plastic&logo=nextdotjs&logoColor=white" />
-  </div> 
-  
-### :hammer_and_wrench: Tools :
-<div id="Tools" align="left">  
-  <img src="https://img.shields.io/badge/sublime_text-808080.svg?&style=plastic&logo=sublime-text&logoColor=important" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-808080?style=plastic&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-808080?style=plastic&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atom-808080?style=plastic&logo=Atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-808080?style=plastic&logo=eclipse&logoColor=white" /> 
-  </div>
-  
-### :open_file_folder: Databases :
-<div id="Databases" align="left"> 
   <img src="https://img.shields.io/badge/MySQL-808080?style=plastice&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-808080?style=plastic&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-808080?style=plastice&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-808080?style=plastic&logo=sqlite&logoColor=white" />
-  </div>
-
-### :cd: Operating Systems and Distributions :
+</div> 
+  
+### :cd: Operating Systems, Distributions, and Cloud  :
 <div id="OperatingSystems" align="left">
   <img src="https://img.shields.io/badge/Windows-808080?style=plastic&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-808080?style=plastic&logo=ubuntu&logoColor=white" />
@@ -117,16 +109,14 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
   <img src="https://img.shields.io/badge/Windows_XP-808080?style=plastic&logo=windows-xp&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_95-808080?style=plastic&logo=windows-95&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-808080?style=plastic&logo=microsoft-sql-server&logoColor=white" />
-</div>
-  
-### :cloud: Cloud :
-<div id="Cloud" align="left">
   <img src="https://img.shields.io/badge/Amazon_AWS-808080?style=plastic&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-808080?style=plastic&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-808080?style=plastic&logo=microsoft-azure&logoColor=white" />
-</div>  
+</div>
+  
 
-### :abacus: Program and Misc :
+
+### :abacus: Programs and Misc :
 <div id="program" align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-808080?style=plastic&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-808080?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
@@ -135,7 +125,6 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
   <img src="https://img.shields.io/badge/Microsoft_SharePoint-808080?style=plastic&logo=microsoft-sharepoint&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Word-808080?style=plastic&logo=microsoft-word&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Visio-808080?style=plastic&logo=microsoft-visio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-808080?style=plastic&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP-808080?style=plastic&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Teams-808080?plastic&logo=microsoft-teams&logoColor=white" />
 </div>
