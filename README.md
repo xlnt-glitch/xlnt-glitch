@@ -28,14 +28,9 @@
 
 I'm a developer and an Engineer working on some amazing Python projects. I love to share my knowledge, and want to start sharing on my Twitter page. Currently my Twitter is a showcase of some of my NFT's that I have created but as I do more bootcamps, and the updated #100daysofCode challenges I will be moving more towards that. 
 
-- 👋 I’m Eric, or @xlnt-glitch! Let me tell you a little about me!
-- 📍 I'm from Cleveland, Ohio.
-- 💻 I work in Network Engineering/Security Engineering and DevOPS, typical IT work.
 - 🎸 In my free time I play the Guitar.
 - ☕️ I add a splash of milk to my hot tea for flavor. 
 - 👀 I am working on an app to assit people in need.
-- 🌱 I’m currently learning Python AI and Machine Learning.
-- 💞️ My go to programming languages are Python, PowerShell, and C#. I also work with Node.JS. 
 - 🔐 I invest in crypto, stocks, and create NFT's.
 - 📚 I love to read all sorts of books.
 - ❓ I am indecisive if I am going to use dark mode or not, I only use it about 50% of the time. (example - VS Code is dark mode, but VS2019 is not..)
