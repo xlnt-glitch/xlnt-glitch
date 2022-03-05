@@ -73,7 +73,7 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
   <img src="https://img.shields.io/badge/C%23-808080?style=plastic&logo=c%23logoColor=white" />
   <img src="https://img.shields.io/badge/Go-808080?style=plastic&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-808080?style=plastic&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/sublime_text-808080.svg?&style=plastic&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/sublime_text-808080.svg?&style=plastic&logo=sublime-text&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-808080?style=plastic&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-808080?style=plastic&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Atom-808080?style=plastic&logo=Atom&logoColor=white" />
