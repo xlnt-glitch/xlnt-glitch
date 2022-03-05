@@ -146,7 +146,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 ---
 ### Recent Books :
 
-<div id="book" align="left">
+<div id="book">
   <img src="https://badgen.net/badge/Hench/By Natalie Zina Walschots/808080" />
   <img src="https://badgen.net/badge/An Absolutely Remarkable Thing/By Hank Green/808080" />
   <img src="https://badgen.net/badge/Automate the Boring Stuff/By Al Sweigart/808080" />
