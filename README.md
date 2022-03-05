@@ -27,13 +27,13 @@
 
 
 I'm a developer and an Engineer working on some amazing Python projects. I love to share my knowledge, and want to start sharing on my Twitter page. Currently my Twitter showcases some of my NFT's that I have created but as I do more bootcamps, and the updated #100daysofCode challenges I will be sharing my journey. 
-- 🎸 In my free time I play the Guitar.
-- ☕️ I add a splash of milk to my hot tea for flavor. 
-- 👀 I am working on an app to assit people in need.
-- 🔐 I invest in crypto, stocks, and create NFT's.
-- 📚 I love to read all sorts of books.
-- ❓ I am indecisive if I am going to use dark mode or not, I only use it about 50% of the time.
-- 📫 How to reach me  <a href="mailto:xlntglitch@gmail.com">
+-  In my free time I play the Guitar.
+-  I add a splash of milk to my hot tea for flavor. 
+-  I am working on an app to assit people in need.
+-  I invest in crypto, stocks, and create NFT's.
+-  I love to read all sorts of books.
+-  I am indecisive if I am going to use dark mode or not, I only use it about 50% of the time.
+-  How to reach me  <a href="mailto:xlntglitch@gmail.com">
     <img src="https://img.shields.io/badge/gmail-808080?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>  
  
@@ -59,69 +59,55 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 
 ---
 ### Languages and Tools :
-<div id="languages">
-  <img src="https://img.shields.io/badge/Python-808080?style=plastic&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-808080?style=plastic&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-808080?style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-808080?style=plastic&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-808080?style=plastic&logo=c%23logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-808080?style=plastic&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-808080?style=plastic&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/sublime_text-808080.svg?&style=plastic&logo=sublime-text&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-808080?style=plastic&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-808080?style=plastic&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atom-808080?style=plastic&logo=Atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-808080?style=plastic&logo=eclipse&logoColor=white" /> 
-</div> 
-  
-### Frameworks, Libraries, and Databases :
-<div id="frameworks" align="left">
-  <img src="https://img.shields.io/badge/Node.js-808080?style=plastic&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-808080?style=plastic&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-808080?style=plastic&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-808080?style=plastic&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/AngularJS-808080?style=plastic&logo=angularjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-808080?style=plastic&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-808080?style=plastic&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-808080?style=plastic&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/nuxt.js-808080?style=plastic&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/next.js-808080?style=plastic&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-808080?style=plastice&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-808080?style=plastic&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-808080?style=plastice&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-808080?style=plastic&logo=sqlite&logoColor=white" />
-</div> 
-  
-### Operating Systems, Distributions, and Cloud  :
-<div id="OperatingSystems" align="left">
-  <img src="https://img.shields.io/badge/Windows-808080?style=plastic&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-808080?style=plastic&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Mint-808080?style=plastic&logo=linux-mint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alpine_Linux-808080?style=plastic&logo=alpine-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-808080?style=plastic&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tails%20-808080?&style=plastic&logo=tails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_XP-808080?style=plastic&logo=windows-xp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_95-808080?style=plastic&logo=windows-95&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-808080?style=plastic&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-808080?style=plastic&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-808080?style=plastic&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-808080?style=plastic&logo=microsoft-azure&logoColor=white" />
-</div>
-  
-
-
-### Programs and Misc :
-<div id="program" align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-808080?style=plastic&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-808080?style=plastic&logo=microsoft-powerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Access-808080?style=plastic&logo=microsoft-access&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-808080?style=plastic&logo=microsoft-office&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SharePoint-808080?style=plastic&logo=microsoft-sharepoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-808080?style=plastic&logo=microsoft-word&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Visio-808080?style=plastic&logo=microsoft-visio&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-808080?style=plastic&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Teams-808080?plastic&logo=microsoft-teams&logoColor=white" />
-</div>
+<table border="1">
+<tbody>
+<tr>
+<td>
+<p><img src="https://img.shields.io/badge/Python-808080?style=plastic&amp;logo=python&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/HTML5-808080?style=plastic&amp;logo=html5&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/CSS3-808080?style=plastic&amp;logo=css3&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/JavaScript-808080?style=plastic&amp;logo=javascript&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/C%23-808080?style=plastic&amp;logo=c%23logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Go-808080?style=plastic&amp;logo=go&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Rust-808080?style=plastic&amp;logo=rust&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/sublime_text-808080.svg?&amp;style=plastic&amp;logo=sublime-text&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Visual_Studio_Code-808080?style=plastic&amp;logo=visual%20studio%20code&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Visual_Studio-808080?style=plastic&amp;logo=visual%20studio&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Atom-808080?style=plastic&amp;logo=Atom&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Eclipse-808080?style=plastic&amp;logo=eclipse&amp;logoColor=white" /></p>
+</td>
+<td>
+<p><img src="https://img.shields.io/badge/Node.js-808080?style=plastic&amp;logo=nodedotjs&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/.NET-808080?style=plastic&amp;logo=dotnet&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Vue.js-808080?style=plastic&amp;logo=vuedotjs&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Angular-808080?style=plastic&amp;logo=angular&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/AngularJS-808080?style=plastic&amp;logo=angularjs&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Bootstrap-808080?style=plastic&amp;logo=bootstrap&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Django-808080?style=plastic&amp;logo=django&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Flask-808080?style=plastic&amp;logo=flask&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/nuxt.js-808080?style=plastic&amp;logo=nuxtdotjs&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/next.js-808080?style=plastic&amp;logo=nextdotjs&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/MySQL-808080?style=plastice&amp;logo=mysql&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/PostgreSQL-808080?style=plastic&amp;logo=postgresql&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/MongoDB-808080?style=plastice&amp;logo=mongodb&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/SQLite-808080?style=plastic&amp;logo=sqlite&amp;logoColor=white" /></p>
+</td>
+<td>
+<p><img src="https://img.shields.io/badge/Windows-808080?style=plastic&amp;logo=windows&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Ubuntu-808080?style=plastic&amp;logo=ubuntu&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Linux_Mint-808080?style=plastic&amp;logo=linux-mint&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Arch_Linux-808080?style=plastic&amp;logo=arch-linux&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Tails%20-808080?&amp;style=plastic&amp;logo=tails&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Windows_XP-808080?style=plastic&amp;logo=windows-xp&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Windows_95-808080?style=plastic&amp;logo=windows-95&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Microsoft_SQL_Server-808080?style=plastic&amp;logo=microsoft-sql-server&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Amazon_AWS-808080?style=plastic&amp;logo=amazon-aws&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Google_Cloud-808080?style=plastic&amp;logo=google-cloud&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Microsoft_Azure-808080?style=plastic&amp;logo=microsoft-azure&amp;logoColor=white" /></p>
+</td>
+</tr>
+</tbody>
+</table>
   
 ---
 ### Learning :
