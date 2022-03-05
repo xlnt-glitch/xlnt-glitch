@@ -151,6 +151,7 @@ My outlook - While looking for inner peace and myself when i was younger, I trav
   <img src="https://badgen.net/badge/Kirill Eremenko/Machine Learning/808080"/>
   <img src="https://badgen.net/badge/Kirill Eremenko/Deep Learning/808080"/>
   <img src="https://badgen.net/badge/Jose Portilla/Django Bootcamp/808080"/>
+  <img src="https://badgen.net/badge/Maximilian Schwarzmuller/NodeJS Bootcamp/808080"/>
  </div> 
 
 ---
