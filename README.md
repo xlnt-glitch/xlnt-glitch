@@ -7,21 +7,21 @@
     <img src="https://img.shields.io/badge/Twitter-808080?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
   <a href="https://stackoverflow.com/users/14830756/eric-butchart">
-    <img src="https://img.shields.io/badge/stack overflow-blue?style=plastic&logo=stackoverflow&logoColor=white" alt="Stack OverFlow Badge"/>
+    <img src="https://img.shields.io/badge/stack overflow-808080?style=plastic&logo=stackoverflow&logoColor=white" alt="Stack OverFlow Badge"/>
   </a>  
   <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-808080?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
   <a href="https://dev.to/xlntglitch">
-    <img src="https://img.shields.io/badge/dev.to-blue?style=plastic&logo=dev.to&logoColor=white" alt="Dev.To Badge"/>
+    <img src="https://img.shields.io/badge/dev.to-808080?style=plastic&logo=dev.to&logoColor=white" alt="Dev.To Badge"/>
   </a>
   </a>  
   <a href="mailto:xlntglitch@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-blue?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
+    <img src="https://img.shields.io/badge/gmail-808080?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>  
   </div> 
   <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=xlnt-glitch&style=plastic&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=xlnt-glitch&style=plastic&color=808080" alt=""/>
   </div>
 <h1 style="text-align: center;">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> I'm Eric!</h1>
 
