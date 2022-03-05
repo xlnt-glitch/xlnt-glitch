@@ -9,7 +9,7 @@
   <a href="https://stackoverflow.com/users/14830756/eric-butchart">
     <img src="https://img.shields.io/badge/stack overflow-808080?style=plastic&logo=stackoverflow&logoColor=white" alt="Stack OverFlow Badge"/>
   </a>  
-  <a href="">
+  <a href="https://www.linkedin.com/in/eric-butchart-482813233/">
     <img src="https://img.shields.io/badge/LinkedIn-808080?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
   <a href="https://dev.to/xlntglitch">
