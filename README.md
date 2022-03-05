@@ -48,7 +48,7 @@ I'm a developer and an Engineer working on some amazing Python projects. I love 
 My first experience with computers - One of my fondest memories was in fifth grade. I would get to computer class to fire up the Macintosh Performa 460, so that I could spend an hour typing little letters on the screen. At the end of a few weeks we would learn that we wrote something beautiful. We were told to run it and if done correctly we would see what we did. The pure joy when that rocket on the screen lifted up was amazing 🚀. I knew that’s what I wanted forever, computers and code. 
 
 Just for the record though, I missed a line in the code. It resulted in the porthole window of the rocket being of center and hanging off the rocket. That was the moment I learned about code review.<div id="mid" align="center">
-  <img src="https://media2.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp?cid=ecf05e47jryx3koee40cs3iqmxt1ue9rit7ohtpc787t2pvh&rid=200.webp&ct=s" width="50"/>
+  <img src="https://media2.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp?cid=ecf05e47jryx3koee40cs3iqmxt1ue9rit7ohtpc787t2pvh&rid=200.webp&ct=s" width="75"/>
 </div>
 
 ### :thought_balloon: Personal Mantra :
