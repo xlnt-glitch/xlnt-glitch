@@ -32,7 +32,7 @@ I'm a developer and an Engineer working on some amazing Python projects. I love 
 -  I am working on an app to assit people in need.
 -  I invest in crypto, stocks, and create NFT's.
 -  I love to read all sorts of books.
--  I am indecisive if I am going to use dark mode or not, I only use it about 50% of the time.
+-  I am indecisive if I am going to use dark mode or not, I only use it about 50% of the time. (This profile was designed for dark mode.)
 -  How to reach me  <a href="mailto:xlntglitch@gmail.com">
     <img src="https://img.shields.io/badge/gmail-808080?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>  
