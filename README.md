@@ -139,16 +139,16 @@ Learning was completed through bootcamps, 100 days of code camps, and online sel
 </div>
 
 ---
-### I support the following organizations : 
+### These are the sites that my children use to learn code : 
 <div id="Support" align="center">
-<a href="https://www.sacnas.org/">
-    <img src="https://img.shields.io/badge/SACNAS-808080?style=plastic&logo=none" alt=""/>
+<a href="https://code.org/">
+    <img src="https://img.shields.io/badge/Code.org-808080?style=plastic&logo=code" alt=""/>
   </a>
-<a href="https://www.codenation.org">
-    <img src="https://img.shields.io/badge/Code Nation-808080?style=plastic&logo=none" alt=""/>
+<a href="https://www.codecademy.com/">
+    <img src="https://img.shields.io/badge/Codecademy-808080?style=plastic&logo=codecademy" alt=""/>
   </a> 
-<a href="https://www.BuiltByGirls.com">
-    <img src="https://img.shields.io/badge/Built By Girls-808080?style=plastic&logo=none" alt=""/>
+<a href="https://replit.com/">
+    <img src="https://img.shields.io/badge/repl.it-808080?style=plastic&logo=none" alt=""/>
   </a>   
 </div>
 
