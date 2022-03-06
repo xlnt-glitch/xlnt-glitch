@@ -112,10 +112,9 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 ---
 ### Learning :
 
-<table border="1">
-<tbody>
-<tr>
-<td>
+Learning was completed through bootcamps, 100 days of code camps, and online self-paced courses.
+
+<div id="learning">
 <p><img src="https://img.shields.io/badge/Jose%20Portilla-Python%20Bootcamp-808080?style=plastic" /></p>
 <p><img src="https://img.shields.io/badge/Dr%20Angela%20Yu-100%20Days%20of%20Code%20Python%20Bootcamp-808080?style=plastic" /></p>
 <p><img src="https://img.shields.io/badge/Ardit%20Sulce-Python%20Mega%20Course-808080?style=plastic" /></p>
@@ -124,10 +123,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 <p><img src="https://img.shields.io/badge/Jose%20Portilla-Django%20Bootcamp-808080?style=plastic" /></p>
 <p><img src="https://img.shields.io/badge/Maximilian%20Schwarzmuller-NodeJS%20Bootcamp-808080?style=plastic" /></p>
 <p><img src="https://img.shields.io/badge/Al%20Sweigart-Automate%20the%20Boring%20Stuff-808080?style=plastic" /></p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
 
 ---
 ### Recent Books :
