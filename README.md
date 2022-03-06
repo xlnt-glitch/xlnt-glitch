@@ -59,7 +59,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 
 ---
 ### Languages and Tools :
-<table border="1">
+<table border="0">
 <tbody>
 <tr>
 <td>
@@ -77,6 +77,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 <p><img src="https://img.shields.io/badge/Eclipse-808080?style=plastic&amp;logo=eclipse&amp;logoColor=white" /></p>
 </td>
 <td>
+<p></p>  
 <p><img src="https://img.shields.io/badge/Node.js-808080?style=plastic&amp;logo=nodedotjs&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/.NET-808080?style=plastic&amp;logo=dotnet&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Vue.js-808080?style=plastic&amp;logo=vuedotjs&amp;logoColor=white" /></p>
