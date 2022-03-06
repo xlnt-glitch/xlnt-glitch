@@ -129,9 +129,9 @@ Learning was completed through bootcamps, 100 days of code camps, and online sel
 ### Recent Books :
 
 <div id="book">
-  <img src="https://img.shields.io/badge/Hench-By%3A%20Natalie%20Zina%20Walschots-808080?style=plastic" />
-  <img src="https://img.shields.io/badge/An%20Absolutely%20Remarkable%20Thing-By%3A%20Hank%20Green-808080?style=plastic" />
-  <img src="https://img.shields.io/badge/The%20Rust%20Programming%20Language-By%3A%20No%20Starch%20Press-808080?style=plastic" />
+  <p><img src="https://img.shields.io/badge/Hench-By%3A%20Natalie%20Zina%20Walschots-808080?style=plastic" /></p>
+  <p><img src="https://img.shields.io/badge/An%20Absolutely%20Remarkable%20Thing-By%3A%20Hank%20Green-808080?style=plastic" /></p>
+  <p><img src="https://img.shields.io/badge/The%20Rust%20Programming%20Language-By%3A%20No%20Starch%20Press-808080?style=plastic" /></p>
 </div>
 
 
