@@ -75,7 +75,6 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 <p><img src="https://img.shields.io/badge/Visual_Studio_Code-808080?style=plastic&amp;logo=visual%20studio%20code&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Visual_Studio-808080?style=plastic&amp;logo=visual%20studio&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Atom-808080?style=plastic&amp;logo=Atom&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Eclipse-808080?style=plastic&amp;logo=eclipse&amp;logoColor=white" /></p>
 </td>
 <td style="vertical-align: top; text-align: center;">
 <p><img src="https://img.shields.io/badge/Node.js-808080?style=plastic&amp;logo=nodedotjs&amp;logoColor=white" /></p>
