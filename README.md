@@ -27,11 +27,9 @@
 
 
 I'm a developer and an Engineer working on some amazing Python projects. I love to share my knowledge, and want to start sharing on my Twitter page. Currently my Twitter showcases some of my NFT's that I have created but as I do more bootcamps, and the updated #100daysofCode challenges I will be sharing my journey. 
--  I support the following organizations :  <a href="https://codenation.org/">
-    <img src="https://img.shields.io/badge/Code%20Nation-CodeNation.org-808080" alt="CodeNation Badge"/>
-    <a href="https://www.builtbygirls.com/">
-    <img src="https://img.shields.io/badge/Built%20By%20Girls-https%3A%2F%2Fwww.builtbygirls.com%2F-808080" alt="BuiltByGirls Badge"/>
-  </a>
+-  I support the following organizations : <a href="codenation.org">
+    <img src="https://img.shields.io/badge/CodeNation-808080?style=plastic&logo=none" alt=""/>
+  </a>  
 -  In my free time I play the Guitar.
 -  I add a splash of milk to my hot tea for flavor. 
 -  I am working on an app to assit people in need.
