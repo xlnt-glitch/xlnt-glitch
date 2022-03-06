@@ -145,10 +145,10 @@ Learning was completed through bootcamps, 100 days of code camps, and online sel
     <img src="https://img.shields.io/badge/SACNAS-808080?style=plastic&logo=none" alt=""/>
   </a>
 <a href="https://www.codenation.org">
-    <img src="https://img.shields.io/badge/CodeNation-808080?style=plastic&logo=none" alt=""/>
+    <img src="https://img.shields.io/badge/Code%Nation-808080?style=plastic&logo=none" alt=""/>
   </a> 
 <a href="https://www.BuiltByGirls.com">
-    <img src="https://img.shields.io/badge/BuiltByGirls-808080?style=plastic&logo=none" alt=""/>
+    <img src="https://img.shields.io/badge/Built%By%Girls-808080?style=plastic&logo=none" alt=""/>
   </a>   
 </div>
 
