@@ -133,9 +133,9 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 ### Recent Books :
 
 <div id="book">
-  <img src="https://img.shields.io/badge/Hench-By%3A%20Natalie%20Zina%20Walschots-808080" />
-  <img src="https://img.shields.io/badge/An%20Absolutely%20Remarkable%20Thing-By%3A%20Hank%20Green-808080" />
-  <img src="https://img.shields.io/badge/The%20Rust%20Programming%20Language-By%3A%20No%20Starch%20Press-808080" />
+  <img src="https://img.shields.io/badge/Hench-By%3A%20Natalie%20Zina%20Walschots-808080?style=plastic" />
+  <img src="https://img.shields.io/badge/An%20Absolutely%20Remarkable%20Thing-By%3A%20Hank%20Green-808080?style=plastic" />
+  <img src="https://img.shields.io/badge/The%20Rust%20Programming%20Language-By%3A%20No%20Starch%20Press-808080?style=plastic" />
 </div>
 
 
