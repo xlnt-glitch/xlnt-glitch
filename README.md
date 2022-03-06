@@ -116,14 +116,14 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 <tbody>
 <tr>
 <td>
-<p><img src="https://badgen.net/badge/Jose Portilla/Python Bootcamp/808080" /></p>
-<p><img src="https://badgen.net/badge/Dr Angela Yu/100 Days of Code Python Bootcamp/808080" /></p>
-<p><img src="https://badgen.net/badge/Ardit Sulce/Python Mega Course/808080" /></p>
-<p><img src="https://badgen.net/badge/Kirill Eremenko/Machine Learning/808080" /></p>
-<p><img src="https://badgen.net/badge/Kirill Eremenko/Deep Learning/808080" /></p>
-<p><img src="https://badgen.net/badge/Jose Portilla/Django Bootcamp/808080" /></p>
-<p><img src="https://badgen.net/badge/Maximilian Schwarzmuller/NodeJS Bootcamp/808080" /></p>
-<p><img src="https://badgen.net/badge/Al Sweigart/Python Programming/808080" /></p>
+<p><img src="https://img.shields.io/badge/Jose%20Portilla-Python%20Bootcamp-808080" /></p>
+<p><img src="https://img.shields.io/badge/Dr%20Angela%20Yu-100%20Days%20of%20Code%20Python%20Bootcamp-808080" /></p>
+<p><img src="https://img.shields.io/badge/Ardit%20Sulce-Python%20Mega%20Course-808080" /></p>
+<p><img src="https://img.shields.io/badge/Kirill%20Eremenko-Machine%20Learning-808080" /></p>
+<p><img src="https://img.shields.io/badge/Kirill%20Eremenko-Deep%20Learning-808080" /></p>
+<p><img src="https://img.shields.io/badge/Jose%20Portilla-Django%20Bootcamp-808080" /></p>
+<p><img src="https://img.shields.io/badge/Maximilian%20Schwarzmuller-NodeJS%20Bootcamp-808080" /></p>
+<p><img src="https://img.shields.io/badge/Al%20Sweigart-Automate%20the%20Boring%20Stuff-808080" /></p>
 </td>
 </tr>
 </tbody>
@@ -133,9 +133,9 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 ### Recent Books :
 
 <div id="book">
-  <img src="https://badgen.net/badge/Hench/By Natalie Zina Walschots/808080" />
-  <img src="https://badgen.net/badge/An Absolutely Remarkable Thing/By Hank Green/808080" />
-  <img src="https://badgen.net/badge/Automate the Boring Stuff/By Al Sweigart/808080" />
+  <img src="https://img.shields.io/badge/Hench-By%3A%20Natalie%20Zina%20Walschots-808080" />
+  <img src="https://img.shields.io/badge/An%20Absolutely%20Remarkable%20Thing-By%3A%20Hank%20Green-808080" />
+  <img src="https://img.shields.io/badge/The%20Rust%20Programming%20Language-By%3A%20No%20Starch%20Press-808080" />
 </div>
 
 
