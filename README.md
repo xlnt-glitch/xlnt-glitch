@@ -138,7 +138,16 @@ Learning was completed through bootcamps, 100 days of code camps, and online sel
   <img src="https://media0.giphy.com/media/hOXPs0xOfNiu4Us8Yy/200w.webp?cid=ecf05e47nj5knnjwd3s9myvz4vp6405a3eqrm8lm99fuxusw&rid=200w.webp&ct=s" width="200"/>
 </div>
 
-
+---
+### I support the following organizations : 
+<div id="Support" align="center">
+<a href="codenation.org">
+    <img src="https://img.shields.io/badge/CodeNation-808080?style=plastic&logo=none" alt=""/>
+  </a> 
+<a href="BuiltByGirls.com">
+    <img src="https://img.shields.io/badge/BuiltByGirls-808080?style=plastic&logo=none" alt=""/>
+  </a>   
+</div>
 
 <!---
 xlnt-glitch/xlnt-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
