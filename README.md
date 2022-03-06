@@ -59,10 +59,10 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 
 ---
 ### Languages and Tools :
-<table border="0">
+<table border="3">
 <tbody>
 <tr>
-<td>
+<td style="vertical-align: top; text-align: center;">
 <p><img src="https://img.shields.io/badge/Python-808080?style=plastic&amp;logo=python&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/HTML5-808080?style=plastic&amp;logo=html5&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/CSS3-808080?style=plastic&amp;logo=css3&amp;logoColor=white" /></p>
@@ -76,8 +76,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 <p><img src="https://img.shields.io/badge/Atom-808080?style=plastic&amp;logo=Atom&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Eclipse-808080?style=plastic&amp;logo=eclipse&amp;logoColor=white" /></p>
 </td>
-<td>
-<p></p>  
+<td style="vertical-align: top; text-align: center;">
 <p><img src="https://img.shields.io/badge/Node.js-808080?style=plastic&amp;logo=nodedotjs&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/.NET-808080?style=plastic&amp;logo=dotnet&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Vue.js-808080?style=plastic&amp;logo=vuedotjs&amp;logoColor=white" /></p>
@@ -93,7 +92,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 <p><img src="https://img.shields.io/badge/MongoDB-808080?style=plastice&amp;logo=mongodb&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/SQLite-808080?style=plastic&amp;logo=sqlite&amp;logoColor=white" /></p>
 </td>
-<td>
+<td style="vertical-align: top; text-align: center;">
 <p><img src="https://img.shields.io/badge/Windows-808080?style=plastic&amp;logo=windows&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Ubuntu-808080?style=plastic&amp;logo=ubuntu&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Linux_Mint-808080?style=plastic&amp;logo=linux-mint&amp;logoColor=white" /></p>
