@@ -59,6 +59,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 
 ---
 ### Languages and Tools :
+
 <table border="3">
 <tbody>
 <tr>
