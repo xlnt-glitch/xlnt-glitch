@@ -85,9 +85,6 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 <p><img src="https://img.shields.io/badge/AngularJS-808080?style=plastic&amp;logo=angularjs&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Bootstrap-808080?style=plastic&amp;logo=bootstrap&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Django-808080?style=plastic&amp;logo=django&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Flask-808080?style=plastic&amp;logo=flask&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/nuxt.js-808080?style=plastic&amp;logo=nuxtdotjs&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/next.js-808080?style=plastic&amp;logo=nextdotjs&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/MySQL-808080?style=plastice&amp;logo=mysql&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/PostgreSQL-808080?style=plastic&amp;logo=postgresql&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/MongoDB-808080?style=plastice&amp;logo=mongodb&amp;logoColor=white" /></p>
