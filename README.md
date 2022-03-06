@@ -141,13 +141,13 @@ Learning was completed through bootcamps, 100 days of code camps, and online sel
 ---
 ### I support the following organizations : 
 <div id="Support" align="center">
-<a href="www.sacnas.org">
+<a href="https://www.sacnas.org/">
     <img src="https://img.shields.io/badge/SACNAS-808080?style=plastic&logo=none" alt=""/>
   </a>
-<a href="codenation.org">
+<a href="https://www.codenation.org">
     <img src="https://img.shields.io/badge/CodeNation-808080?style=plastic&logo=none" alt=""/>
   </a> 
-<a href="BuiltByGirls.com">
+<a href="https://www.BuiltByGirls.com">
     <img src="https://img.shields.io/badge/BuiltByGirls-808080?style=plastic&logo=none" alt=""/>
   </a>   
 </div>
