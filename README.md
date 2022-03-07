@@ -142,13 +142,13 @@ Learning was completed through bootcamps, 100 days of code camps, and online sel
 ### These are the sites that my children use to learn code : 
 <div id="Support" align="center">
 <a href="https://code.org/">
-    <img src="https://img.shields.io/badge/Code.org-808080?style=plastic&logo=code" alt=""/>
+    <img src="https://img.shields.io/badge/Code.org-808080?style=plastic&logo=code.org" alt=""/>
   </a>
 <a href="https://www.codecademy.com/">
     <img src="https://img.shields.io/badge/Codecademy-808080?style=plastic&logo=codecademy" alt=""/>
   </a> 
 <a href="https://replit.com/">
-    <img src="https://img.shields.io/badge/repl.it-808080?style=plastic&logo=replit" alt=""/>
+    <img src="https://img.shields.io/badge/repl.it-808080?style=plastic&logo=replitColor=white" alt=""/>
   </a> 
 <a href="https://play.typeracer.com/">
     <img src="https://img.shields.io/badge/Type Racer-808080?style=plastic&logo=type racer" alt=""/>
