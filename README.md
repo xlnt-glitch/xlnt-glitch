@@ -151,7 +151,7 @@ Learning was completed through bootcamps, 100 days of code camps, and online sel
     <img src="https://img.shields.io/badge/repl.it-808080?style=plastic&logo=none" alt=""/>
   </a> 
 <a href="https://play.typeracer.com/">
-    <img src="https://img.shields.io/badge/Type Racer-808080?style=plastic&logo=typeracer" alt=""/>
+    <img src="https://img.shields.io/badge/Type Racer-808080?style=plastic&logo=type racer" alt=""/>
   </a>   
 </div>
 
