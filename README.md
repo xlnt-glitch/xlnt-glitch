@@ -155,6 +155,35 @@ Learning was completed through bootcamps, 100 days of code camps, and online sel
   </a>   
 </div>
 
+---
+  <article>
+          <h2>Be a Developer</h2>
+          <p>
+            I have seven rules to be a developer that I live by:
+          </p>
+          <p>
+            1. <a href="#" data-text="Even if it takes longer to automate something, it will always save you in the future." class="info-modal"> Automate everything</a>   
+          </p>
+          <p>
+            2. <a href="#" data-text="Even the most absurd item you work on needs a clear mention in the documentation." class="info-modal"> Document everything</a> 
+          </p>
+          <p>
+            3. <a href="#" data-text="Show your worth, make your value known by showing that you can save the company money." class="info-modal"> Try to cut cost somewhere, anywhere</a> 
+          </p>
+          <p>
+            4. <a href="#" data-text="Read the documentation. This is the single most important step and can be applied to emails as well." class="info-modal"> Read the documentation/manual</a>
+          </p>
+          <p>
+            5. <a href="#" data-text="Keep those receipts! You will never know when someone will come at you and try to blame you for their foul." class="info-modal"> Save all emails</a>
+          </p>
+          <p>
+            6. <a href="#" data-text="Research as much as possible, read documentation, and hit the forums before giving up." class="info-modal"> Research as much as possible</a>
+          </p>
+          <p>
+            7. <a href="#" data-text="Love your job, but love yourself! You are important! Learn all the code!" class="info-modal"> Respect yourself, and keep learning</a>
+          </p>
+        </article>
+
 <!---
 xlnt-glitch/xlnt-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
