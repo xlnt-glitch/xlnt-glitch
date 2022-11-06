@@ -135,7 +135,7 @@ Learning was completed through bootcamps, 100 days of code camps, and online sel
 ---
 
  <div id="Footer" align="center">
-  <img src="https://media0.giphy.com/media/hOXPs0xOfNiu4Us8Yy/200w.webp?cid=ecf05e47nj5knnjwd3s9myvz4vp6405a3eqrm8lm99fuxusw&rid=200w.webp&ct=s" width="200"/>
+  <img src="https://media0.giphy.com/media/hOXPs0xOfNiu4Us8Yy/200w.webp?cid=ecf05e47nj5knnjwd3s9myvz4vp6405a3eqrm8lm99fuxusw&rid=200w.webp&ct=s" width="135"/>
 </div>
 
 ---
