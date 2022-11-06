@@ -53,7 +53,7 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 
 ---
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xlnt-glitch&theme=slateorange&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<img src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=slateorange" alt="github stats" width="45%" align="right"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xlnt-glitch&theme=slateorange&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<img src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=slateorange" alt="github stats" width="35%" align="right"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 
