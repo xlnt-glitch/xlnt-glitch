@@ -37,7 +37,7 @@ I'm a developer and an Engineer working on some amazing Python projects. I love 
 ---
 ### :speech_balloon: Fun Fact :
 My first experience with computers - One of my fondest memories was in fifth grade. I would get to computer class to fire up the Macintosh Performa 460, so that I could spend an hour typing little letters on the screen. At the end of a few weeks we would learn that we wrote something beautiful. We were told to run it and if done correctly we would see what we did. The pure joy when that rocket on the screen lifted up was amazing 🚀. I knew that’s what I wanted forever, computers and code. 
-
+<div id="mid" align="center">
   <img src="https://media2.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp?cid=ecf05e47jryx3koee40cs3iqmxt1ue9rit7ohtpc787t2pvh&rid=200.webp&ct=s" width="65"/>
 </div>
 
