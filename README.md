@@ -2,10 +2,6 @@
   <img src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e47p2z95joxotk9o60xgu59095tt6e5o6atqywz3fl6&rid=200.webp&ct=s" alt="" width="149" height="146"/>
 </div>
   
-<div id="badges" align="center">
-  <a href="https://twitter.com/xlnt_glitch">
-    <img src="https://img.shields.io/badge/Twitter-808080?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
   <a href="https://stackoverflow.com/users/14830756/eric-butchart">
     <img src="https://img.shields.io/badge/stack overflow-808080?style=plastic&logo=stackoverflow&logoColor=white" alt="Stack OverFlow Badge"/>
   </a>  
@@ -27,11 +23,11 @@
 
 
 I'm a developer and an Engineer working on some amazing Python projects. I love to share my knowledge, and want to start sharing on my Twitter page. Currently my Twitter showcases some of my NFT's that I have created but as I do more bootcamps, and the updated #100daysofCode challenges I will be sharing my journey. 
--  In my free time I play the Guitar.
--  I add a splash of milk to my hot tea for flavor. 
+-  In my free time I learn through Micro Learning.
+-  I am trying to learn different languages to better understand Data. 
 -  I am working on an app to assit people in need.
--  I invest in crypto, stocks, and create NFT's.
--  I love to read all sorts of books.
+-  I invest in crypto and stocks.
+-  I love to read all sorts of books. I have a goal of 365 books in 2025.
 -  I am indecisive if I am going to use dark mode or not, I only use it about 50% of the time. (This profile was designed for dark mode.)
 -  How to reach me  <a href="mailto:xlntglitch@gmail.com">
     <img src="https://img.shields.io/badge/gmail-808080?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
@@ -41,7 +37,6 @@ I'm a developer and an Engineer working on some amazing Python projects. I love 
 ### :speech_balloon: Fun Fact :
 My first experience with computers - One of my fondest memories was in fifth grade. I would get to computer class to fire up the Macintosh Performa 460, so that I could spend an hour typing little letters on the screen. At the end of a few weeks we would learn that we wrote something beautiful. We were told to run it and if done correctly we would see what we did. The pure joy when that rocket on the screen lifted up was amazing 🚀. I knew that’s what I wanted forever, computers and code. 
 
-Just for the record though, I missed a line in the code. It resulted in the porthole window of the rocket being of center and hanging off the rocket. That was the moment I learned about code review.<div id="mid" align="center">
   <img src="https://media2.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp?cid=ecf05e47jryx3koee40cs3iqmxt1ue9rit7ohtpc787t2pvh&rid=200.webp&ct=s" width="65"/>
 </div>
 
@@ -95,8 +90,8 @@ While looking for inner peace and myself when i was younger, I traveled to some 
 <p><img src="https://img.shields.io/badge/Linux_Mint-808080?style=plastic&amp;logo=linux-mint&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Arch_Linux-808080?style=plastic&amp;logo=arch-linux&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Tails%20-808080?&amp;style=plastic&amp;logo=tails&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Windows_XP-808080?style=plastic&amp;logo=windows-xp&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Windows_95-808080?style=plastic&amp;logo=windows-95&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Windows_11-808080?style=plastic&amp;logo=windows-xp&amp;logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/Windows_Server-808080?style=plastic&amp;logo=windows-95&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Microsoft_SQL_Server-808080?style=plastic&amp;logo=microsoft-sql-server&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Amazon_AWS-808080?style=plastic&amp;logo=amazon-aws&amp;logoColor=white" /></p>
 <p><img src="https://img.shields.io/badge/Google_Cloud-808080?style=plastic&amp;logo=google-cloud&amp;logoColor=white" /></p>
