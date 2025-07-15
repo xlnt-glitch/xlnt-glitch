@@ -45,7 +45,7 @@ My first experience with computers - One of my fondest memories was in fifth gra
 While looking for inner peace and myself when i was younger, I traveled to some very beautiful countries around the world. I may not have found what I thought I was looking for, but I did learn these three things: 
   1. There is nothing more pure than the kindness of strangers. 
   2. Spend time with family when you can. 
-  3. The grand size of the world is so much larger than you know.
+  3. The size of the world is so much larger than you know.
 
 ---
 ### My Stats :
