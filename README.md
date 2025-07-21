@@ -1,158 +1,108 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e47p2z95joxotk9o60xgu59095tt6e5o6atqywz3fl6&rid=200.webp&ct=s" alt="" width="149" height="146"/>
-</div>
+<!-- README.md -->
 
-  <div id="badges" align="center">
-  <a href="https://stackoverflow.com/users/14830756/eric-butchart">
-    <img src="https://img.shields.io/badge/stack overflow-808080?style=plastic&logo=stackoverflow&logoColor=white" alt="Stack OverFlow Badge"/>
-  </a>  
-  <a href="https://www.linkedin.com/in/eric-butchart-482813233/">
-    <img src="https://img.shields.io/badge/LinkedIn-808080?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>  
-  <a href="https://dev.to/xlntglitch">
-    <img src="https://img.shields.io/badge/dev.to-808080?style=plastic&logo=dev.to&logoColor=white" alt="Dev.To Badge"/>
-  </a>
-  </a>  
-  <a href="mailto:xlntglitch@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-808080?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
-  </a>  
-  </div> 
-  <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=xlnt-glitch&style=plastic&color=808080" alt=""/>
-  </div>
-<h1 style="text-align: center;">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> I'm Eric!</h1>
-
-
-I'm a developer and an Engineer working on some amazing Python projects. I love to share my knowledge, and want to start sharing on my Twitter page. Currently my Twitter showcases some of my NFT's that I have created but as I do more bootcamps, and the updated #100daysofCode challenges I will be sharing my journey. 
--  In my free time I learn through Micro Learning.
--  I am trying to learn different languages to better understand Data. 
--  I am working on an app to assit people in need.
--  I invest in crypto and stocks.
--  I love to read all sorts of books. I have a goal of 365 books in 2025.
--  I am indecisive if I am going to use dark mode or not, I only use it about 50% of the time. (This profile was designed for dark mode.)
--  How to reach me  <a href="mailto:xlntglitch@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-808080?style=plastic&logo=gmail&logoColor=white" alt="gmail Badge"/>
-  </a>  
- 
----
-### :speech_balloon: Fun Fact :
-My first experience with computers - One of my fondest memories was in fifth grade. I would get to computer class to fire up the Macintosh Performa 460, so that I could spend an hour typing little letters on the screen. At the end of a few weeks we would learn that we wrote something beautiful. We were told to run it and if done correctly we would see what we did. The pure joy when that rocket on the screen lifted up was amazing 🚀. I knew that’s what I wanted forever, computers and code. 
-<div id="mid" align="center">
-  <img src="https://media2.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp?cid=ecf05e47jryx3koee40cs3iqmxt1ue9rit7ohtpc787t2pvh&rid=200.webp&ct=s" width="65"/>
-</div>
-
-### :thought_balloon: Personal Mantra :
-While looking for inner peace and myself when i was younger, I traveled to some very beautiful countries around the world. I may not have found what I thought I was looking for, but I did learn these three things: 
-  1. There is nothing more pure than the kindness of strangers. 
-  2. Spend time with family when you can. 
-  3. The size of the world is so much larger than you know.
-
----
-### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xlnt-glitch&theme=slateorange&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<img src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=slateorange" alt="github stats" width="45%" align="right"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlnt-glitch&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-### Languages and Tools :
-
-<table border="5">
-<tbody>
-<tr>
-<td style="vertical-align: top; text-align: center;">
-<p><img src="https://img.shields.io/badge/Python-808080?style=plastic&amp;logo=python&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/HTML5-808080?style=plastic&amp;logo=html5&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/CSS3-808080?style=plastic&amp;logo=css3&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/JavaScript-808080?style=plastic&amp;logo=javascript&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/C%23-808080?style=plastic&amp;logo=c%23logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Go-808080?style=plastic&amp;logo=go&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Rust-808080?style=plastic&amp;logo=rust&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/sublime_text-808080.svg?&amp;style=plastic&amp;logo=sublime-text&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Visual_Studio_Code-808080?style=plastic&amp;logo=visual%20studio%20code&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Visual_Studio-808080?style=plastic&amp;logo=visual%20studio&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Atom-808080?style=plastic&amp;logo=Atom&amp;logoColor=white" /></p>
-</td>
-<td style="vertical-align: top; text-align: center;">
-<p><img src="https://img.shields.io/badge/Node.js-808080?style=plastic&amp;logo=nodedotjs&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/.NET-808080?style=plastic&amp;logo=dotnet&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Vue.js-808080?style=plastic&amp;logo=vuedotjs&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Angular-808080?style=plastic&amp;logo=angular&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/AngularJS-808080?style=plastic&amp;logo=angularjs&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Bootstrap-808080?style=plastic&amp;logo=bootstrap&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Django-808080?style=plastic&amp;logo=django&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/MySQL-808080?style=plastice&amp;logo=mysql&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/PostgreSQL-808080?style=plastic&amp;logo=postgresql&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/MongoDB-808080?style=plastice&amp;logo=mongodb&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/SQLite-808080?style=plastic&amp;logo=sqlite&amp;logoColor=white" /></p>
-</td>
-<td style="vertical-align: top; text-align: center;">
-<p><img src="https://img.shields.io/badge/Windows-808080?style=plastic&amp;logo=windows&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Ubuntu-808080?style=plastic&amp;logo=ubuntu&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Linux_Mint-808080?style=plastic&amp;logo=linux-mint&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Arch_Linux-808080?style=plastic&amp;logo=arch-linux&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Tails%20-808080?&amp;style=plastic&amp;logo=tails&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Windows_11-808080?style=plastic&amp;logo=windows-xp&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Windows_Server-808080?style=plastic&amp;logo=windows-95&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Microsoft_SQL_Server-808080?style=plastic&amp;logo=microsoft-sql-server&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Amazon_AWS-808080?style=plastic&amp;logo=amazon-aws&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Google_Cloud-808080?style=plastic&amp;logo=google-cloud&amp;logoColor=white" /></p>
-<p><img src="https://img.shields.io/badge/Microsoft_Azure-808080?style=plastic&amp;logo=microsoft-azure&amp;logoColor=white" /></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+  <h1>Eric Butchart</h1>
+  <p><em>Software Engineer | DevOps Enthusiast | Automation Specialist</em></p>
   
----
-### Learning :
-
-Learning was completed through bootcamps, 100 days of code camps, and online self-paced courses.
-
-<div id="learning">
-<p><img src="https://img.shields.io/badge/Jose%20Portilla-Python%20Bootcamp-808080?style=plastic" /></p>
-<p><img src="https://img.shields.io/badge/Dr%20Angela%20Yu-100%20Days%20of%20Code%20Python%20Bootcamp-808080?style=plastic" /></p>
-<p><img src="https://img.shields.io/badge/Ardit%20Sulce-Python%20Mega%20Course-808080?style=plastic" /></p>
-<p><img src="https://img.shields.io/badge/Kirill%20Eremenko-Machine%20Learning-808080?style=plastic" /></p>
-<p><img src="https://img.shields.io/badge/Kirill%20Eremenko-Deep%20Learning-808080?style=plastic" /></p>
-<p><img src="https://img.shields.io/badge/Jose%20Portilla-Django%20Bootcamp-808080?style=plastic" /></p>
-<p><img src="https://img.shields.io/badge/Maximilian%20Schwarzmuller-NodeJS%20Bootcamp-808080?style=plastic" /></p>
-<p><img src="https://img.shields.io/badge/Al%20Sweigart-Automate%20the%20Boring%20Stuff-808080?style=plastic" /></p>
+  <!-- Badges -->
+  <p>
+    <a href="https://github.com/xlnt-glitch">
+      <img src="https://img.shields.io/github/followers/xlnt-glitch?label=Follow&style=social" alt="GitHub Followers" />
+    </a>
+    <a href="https://stackoverflow.com/users/14830756/eric-butchart">
+      <img src="https://img.shields.io/badge/Stack%20Overflow-Developer-orange?style=flat&logo=stackoverflow" alt="Stack Overflow" />
+    </a>
+    <a href="https://www.linkedin.com/in/eric-butchart-482813233/">
+      <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://dev.to/xlntglitch">
+      <img src="https://img.shields.io/badge/Dev.to-Writer-007ACC?style=flat&logo=devdotto" alt="Dev.to" />
+    </a>
+    <a href="mailto:xlntglitch@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
-### Recent Books :
 
-<div id="book">
-  <p><img src="https://img.shields.io/badge/Hench-By%3A%20Natalie%20Zina%20Walschots-808080?style=plastic" /></p>
-  <p><img src="https://img.shields.io/badge/An%20Absolutely%20Remarkable%20Thing-By%3A%20Hank%20Green-808080?style=plastic" /></p>
-  <p><img src="https://img.shields.io/badge/The%20Rust%20Programming%20Language-By%3A%20No%20Starch%20Press-808080?style=plastic" /></p>
-</div>
+## 👋 About Me
 
+I’m **Eric Butchart**, a Software Engineer with a strong focus on **Python development**, **DevOps automation**, and **cloud infrastructure**. With 5+ years of experience in building scalable applications and streamlining CI/CD pipelines, I thrive on transforming complex requirements into reliable, maintainable solutions.
+
+- 🔭 Currently building a fault-tolerant ETL pipeline in **AWS Lambda** and **Step Functions**.
+- 🌱 Deepening expertise in **Kubernetes** and **IaC** with **Terraform**.
+- 💬 Ask me about **REST API design**, **configuration management** (Ansible / Chef), and **GitOps** workflows.
+- ⚡ Fun fact: I set a goal to read **365 books** in 2025 to explore emerging trends and sharpen my problem-solving skills.
+
+---
+
+## 📋 Table of Contents
+
+- [🛠️ Technical Skills](#️-technical-skills)
+- [🚀 Projects & Experience](#-projects--experience)
+- [📚 Education & Certifications](#-education--certifications)
+- [📈 GitHub Stats](#-github-stats)
+- [📫 Connect with Me](#-connect-with-me)
 
 ---
 
- <div id="Footer" align="center">
-  <img src="https://media0.giphy.com/media/hOXPs0xOfNiu4Us8Yy/200w.webp?cid=ecf05e47nj5knnjwd3s9myvz4vp6405a3eqrm8lm99fuxusw&rid=200w.webp&ct=s" width="135"/>
+## 🛠️ Technical Skills
+
+| Domain          | Tools & Technologies                   |
+|-----------------|----------------------------------------|
+| **Languages**   | Python, PowerShell, C#, JavaScript, Go|
+| **Frameworks**  | Django, Flask, .NET Core, Node.js      |
+| **DevOps / CI** | Docker, Kubernetes, Jenkins, GitHub Actions, CircleCI |
+| **Infrastructure** | AWS (EC2, Lambda, S3, RDS), Azure (VM, Functions) |
+| **IaC & Config**| Terraform, Ansible, Chef              |
+| **Databases**   | PostgreSQL, MySQL, MongoDB, Redis      |
+| **Versioning**  | Git, GitHub, Azure DevOps              |
+| **Monitoring**  | Prometheus, Grafana, ELK Stack         |
+
+---
+
+## 🚀 Projects & Experience
+
+### Data Processing Pipeline (Python & AWS)
+- Designed and implemented an **ETL pipeline** using AWS Lambda, S3, and Step Functions, processing up to **1M records/day**.
+- Automated deployment with **Terraform**, reducing provisioning time by **75%**.
+
+### Active Directory Automation (PowerShell)
+- Developed PowerShell modules to automate **user onboarding**, **group management**, and **access revocation** across **2,500+ accounts**.
+- Integrated with Office 365 SMTP for automated password expiry notifications.
+
+### Web Application (Django & React)
+- Full-stack web portal for **inventory management**, leveraging **Django REST Framework** and **React**.
+- Implemented JWT-based authentication, role-based access control, and real-time updates with WebSockets.
+
+### Open Source Contributions
+- 🌐 **GitHub Actions Marketplace**: Published custom actions for **security scanning** and **license compliance**.
+- 🐍 **PyPI Packages**: Maintained utility libraries for **data validation** and **logging**.
+
+---
+
+## 📚 Education & Certifications
+
+- **B.Sc. in Computer Science**, Bowling Green State University | 2004
+- **AWS Certified Developer – Associate** | 2015
+- **Certified Kubernetes Application Developer (CKAD)** | 2024
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xlnt-glitch&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xlnt-glitch&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
-### These are the sites that my children use to learn code : 
-<div id="Support" align="center">
-<a href="https://code.org/">
-    <img src="https://img.shields.io/badge/Code.org-808080?style=plastic&logo=code.org" alt=""/>
-  </a>
-<a href="https://www.codecademy.com/">
-    <img src="https://img.shields.io/badge/Codecademy-808080?style=plastic&logo=codecademy" alt=""/>
-  </a> 
-<a href="https://replit.com/">
-    <img src="https://img.shields.io/badge/repl.it-808080?style=plastic&logo=replit&logoColor=white" alt=""/>
-  </a> 
-<a href="https://play.typeracer.com/">
-    <img src="https://img.shields.io/badge/Type Racer-808080?style=plastic&logo=type racer" alt=""/>
-  </a>   
-</div>
 
+## 📫 Connect with Me
 
-<!---
-xlnt-glitch/xlnt-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **LinkedIn**: [linkedin.com/in/eric-butchart-482813233](https://www.linkedin.com/in/eric-butchart-482813233/)
+- **Stack Overflow**: [stackoverflow.com/users/14830756/eric-butchart](https://stackoverflow.com/users/14830756/eric-butchart)
+- **Email**: xlntglitch@gmail.com
+
+<!-- End of README -->
